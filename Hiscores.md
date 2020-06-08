@@ -11,6 +11,7 @@ https://deceit-live.baseline.gg/hiscores?type=elo
 
 # Return:
 200 (OK): JSON array of objects, each object holds the userId, rank and value of the highscore. Currently only returns the top 10.
+
 Example:
 ```
 [
@@ -21,4 +22,5 @@ Example:
   }
 ]
 ```
+
 400 (Bad Request): JSON object with an `error` field, usually indicates the `type` provided was incorrect.
