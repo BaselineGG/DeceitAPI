@@ -18,7 +18,7 @@ Currently the API is limited to 1,000 calls a day per IP.
 * [Hiscores](/api/Hiscores.md)
 
 ## Resources
-* [unlocks.csv](/resources/unlocks)
+* [unlocks.csv](/resources/unlocks.csv)
 
 ## Get Involved
 Get involved with the Deceit developer community by joining our [Discord server](https://discord.gg/deceit)! 
