@@ -1,0 +1,385 @@
+Id,Name,Rarity,"Type: (Default = 0, Unlockable = 1, Not unlockable = 2, ""Earned"" = 3, ""Hiscore"" = 4, ""Own Werewolf DLC"" = 5, ""Own Vampire DLC"" = 6 Events=1000+)","Tier (1 = Hair/Head Accessories/WristBand/Knife, 2 = Rest)"
+1,Short wavey,0,0,1
+2,Short wavey blue,0,0,1
+3,Mohawk,0,0,1
+4,Bald,0,0,1
+5,Green wild hair,1,1000,1
+6,Purple mohawk hair,1,1000,1
+7,Nothing,0,0,1
+8,Green Accent Sunglasses,0,0,1
+9,Nerd glasses,0,0,1
+10,Pumpkin Mask,1,1000,1
+11,Hockey Mask,1,1000,1
+12,Scrubs,0,0,2
+12,Scrubs,0,0,2
+13,Medical Scrubs,0,0,2
+14,Shirtless,0,0,2
+15,Pumpkin Scrubs,1,1000,2
+16,Prison,1,1000,2
+17,Duck,0,1,2
+18,Woodland Scrubs,0,1,2
+19,Default Wristband,0,0,1
+20,Blue,0,0,1
+21,Bone,1,1000,1
+22,Pumpkin,1,1000,1
+23,Sweets,1,1000,1
+24,Black,0,1,1
+25,Pink,0,1,1
+26,JT45 Olive,0,0,2
+27,JT45 Tan,0,0,2
+28,JT45 Bone,1,1000,2
+29,JT45 Pumpkin,1,1000,2
+30,JT45 Sweets,1,1000,2
+31,JT45 Urban Pink,0,1,2
+32,JT45 Urban Red,0,1,2
+33,Combat Knife,0,0,1
+34,Dragon knife,0,0,1
+35,Bone knife,1,1000,1
+36,Pumpkin knife,1,1000,1
+37,Sweets knife,1,1000,1
+38,Nurse,0,1,2
+39,Psych,0,1,2
+40,Desert,1,1,2
+41,Green,0,1,1
+42,Red,0,1,1
+43,Wetland,1,1,1
+44,Woodland,1,1,1
+45,Yellow,0,1,1
+46,Bronze,3,4,1
+47,Silver,3,4,1
+48,Gold,3,4,1
+49,JT45 Silver,3,4,2
+50,JT45 Gold,3,4,2
+51,JT45 Digital Blue,0,1,2
+52,JT45 Hunter,0,1,2
+53,JT45 Sheen,2,1,2
+54,JT45 Shirly,2,1,2
+55,JT45 Safari,2,1,2
+56,JT45 Tiger,0,1,2
+57,JT45 Freedom,1,1,2
+58,JT45 Jack,1,1,2
+59,JT45 Woodland,0,1,2
+60,JT45 Bronze,3,4,2
+61,Bronze knife,3,4,1
+62,Silver knife,3,4,1
+63,Gold knife,3,4,1
+64,Afro,0,0,1
+65,Large Afro,0,0,1
+66,Blue Halfmoon Glasses,0,0,1
+67,Scrubs,0,0,2
+68,Cat,0,1,2
+69,Surgical,0,1,2
+70,Golden Sunglasses,3,4,1
+71,Silver Sunglasses,3,4,1
+72,Bronze Sunglasses,3,4,1
+73,CrReaM Mask,1,1,1
+74,Founders Male,3,2,2
+74,Founders Male,3,2,2
+75,Founders Female,3,2,2
+75,Founders Female,3,2,2
+76,Founders Watch,3,2,1
+77,JT45 Founders,3,2,2
+78,Founders knife,3,2,1
+79,Rachel,0,0,1
+80,Wetland,0,1,2
+81,Default Terror,0,0,2
+82,Clown Terror,3,1001,2
+83,Santa Scrubs Male,1,1001,2
+84,Elf Scrubs Male,1,1001,2
+85,Santa Scrubs Female,1,1001,2
+86,Elf Scrubs Female,1,1001,2
+87,Christmas,1,1001,1
+88,Elftoy,1,1001,1
+89,JT45 Christmas,1,1001,2
+90,JT45 Elftoy,1,1001,2
+91,EGX Watch,3,2,1
+91,Combat Christmas,1,1001,1
+92,Combat Elftoy,1,1001,1
+93,Beanie,0,1,1
+94,Beanie Blue,0,1,1
+95,Rachel Beanie,0,1,1
+95,JT45 EGX,3,2,2
+96,Beanie Green,0,1,1
+97,Elf Hat,1,1001,1
+98,Santa Hat,1,1001,1
+99,Turkey Hat,1,1001,1
+100,Alex Default,0,0,2
+101,Chang Default,0,0,2
+102,Take Pic,0,1,2
+103,Knelt,0,1,2
+104,Cheesey Pose,1,1,2
+105,Fist Pump,1,1,2
+106,Glorious,2,1,2
+107,Pistol Pump,2,1,2
+108,Selfie,2,1,2
+109,Rachel Default,0,0,2
+110,Lisa Default,0,0,2
+111,Hench,0,1,2
+112,Force,1,1,2
+113,Eyyyyyyy,1,1,2
+114,Fem Selfie,2,1,2
+115,Fem DAB,2,1,2
+116,Finish Line,3,1,2
+117,High Five,3,1,2
+118,Power,0,1,2
+119,Alex Default,0,0,2
+120,Chang Default,0,0,2
+121,Arrow to the knee,0,1,2
+122,Help me please!,1,1,2
+123,Cat Got Your Tongue,1,1,2
+124,Defeat,2,1,2
+125,Frustration,2,1,2
+126,Knackered,0,1,2
+127,Run,3,1,2
+128,Tranqued,3,1,2
+129,Rachel Default,0,0,2
+130,Lisa Default,0,0,2
+131,In a Tizz,0,1,2
+132,Backstabbed,0,1,2
+133,Alrighty Then,1,1,2
+134,Anime,1,1,2
+135,Ashamed,2,1,2
+136,Casual,2,1,2
+137,Seppuku,3,1,2
+138,Stressed,3,1,2
+139,AdmiralBahroo Scrubs,1,1,1
+139,AdmiralBahroo Scrubs,1,1,1
+140,LEAN Scrubs,1,1,1
+140,LEAN Scrubs,1,1,1
+141,Diction Scrubs,1,1,1
+141,Diction Scrubs,1,1,1
+145,NinjaHood,1,1,1
+146,St Paddy,1,1002,2
+147,St Paddy Hat,1,1002,1
+148,Lucky Shot,1,1002,2
+149,Alex Flatcap,3,1,1
+150,Chang Snapback,3,1,1
+151,Police Hat,3,1,1
+152,Rachel Hat,3,1,1
+153,Alex Default Clothes,3,1,2
+154,Chang Default,3,1,2
+155,Police,3,1,2
+156,Rachel Default,3,1,2
+157,Police Tonfa,3,1,1
+158,Wooden Tonfa,3,1,1
+159,Deerhorn,3,1,1
+160,Monopod,3,1,1
+161,Mug,3,1,1
+162,JT45 BlasDeLezo,1,1,2
+163,JT45 SchwarzRotGold,1,1,2
+164,JT45 Federation,1,1,2
+165,JT45 Hinomaru,1,1,2
+166,JT45 Five Star,1,1,2
+167,JT45 RoK,1,1,2
+168,ZhanqiTV Scrubs,2,2,2
+168,ZhanqiTV Scrubs,2,2,2
+169,ZhanqiTV Scrubs White,2,2,2
+169,ZhanqiTV Scrubs White,2,2,2
+170,Forest Terrorform,0,1,2
+171,Stag Terrorform,1,2,2
+172,Pale Terrorform,0,1,2
+173,Dark Terrorform,0,1,2
+174,Easter Wristband,0,1003,2
+175,Easter Gun,0,1003,2
+176,Easter Clothes,0,1003,2
+177,Easter DP,1,1003,2
+178,Easter VP,1,1003,2
+179,Carrot Knife,1,1003,2
+180,Bunny Terror,2,1003,2
+181,Spoon,2,1,1
+182,Yeti Terror,0,0,1
+184,Wolfie,0,5,1
+185,Kitchen Knife,3,3,1
+187,Alex Afro,3,3,1
+188,Rachel Afro,3,3,1
+189,Chang Afro,3,3,1
+190,Hans Afro,3,3,1
+191,NiNa Afro,3,3,1
+192,Hans Default Hair,0,0,1
+193,Wrench,3,1,1
+194,Microphone,3,1,1
+195,NiNa Default Hair,0,0,1
+196,Machete,3,2,2
+197,Thriller,3,2,2
+198,Creature,2,2,2
+199,Give me a hand,3,2,2
+200,Stabbed,2,2,2
+201,Tshirt White,0,1,2
+202,Tshirt Black,0,1,2
+203,TShirt Blue,0,1,2
+204,Tshirt Green,0,1,2
+205,Tshirt Pink,0,1,2
+206,Tshirt Yellow,0,1,2
+207,Tshirt UK,1,1,2
+208,Tshirt USA,1,1,2
+209,Tshirt China,1,1,2
+210,Tshirt Germany,1,1,2
+211,Tshirt Japan,1,1,2
+212,Tshirt Russia,1,1,2
+213,Tshirt Canada,1,1,2
+214,Tshirt Poland,1,1,2
+215,Tshirt Spain,1,1,2
+216,Tshirt Team Awesome Blue,1,1,2
+217,Tshirt TAvagrace Pink,1,1,2
+218,Tshirt BewereTerror,2,2,2
+219,Tshirt WereTerror,2,2,2
+220,Tshirt Maragains,1,1,2
+221,Tshirt Korea,1,1,2
+222,Winter Gear,2,1,2
+223,Beanie White,0,1,1
+224,Desert Scrubs,0,1,2
+225,Old Prison Scrubs,1,1,2
+226,Bloody,1,1,2
+227,Hans Default Clothes,3,1,2
+228,Hans Suit,3,1,2
+229,Pumping Iron,0,1,2
+230,Salute,2,1,2
+231,Fix-It,3,1,2
+232,Maverick,1,1,2
+233,Slap-Off,1,1,2
+234,Hans,1,0,2
+235,Too Old For This,3,1,2
+236,Brace For Impact!,0,1,2
+237,Injured Arm,1,1,2
+238,Stunned,0,1,2
+239,That's Not Normal,2,1,2
+240,I'm Dying!,0,0,2
+241,Cat Ears,3,1,1
+242,Skulls,0,1,2
+243,Curtsy,0,1,2
+244,Drop the Mic!,3,1,2
+245,Pop Star,2,1,2
+246,Nina,0,0,2
+247,Thumbs Down,1,1,2
+248,Ha!,0,1,2
+249,Swoon,0,1,2
+250,Sulking,0,1,2
+251,Gamer Rage,3,1,2
+252,Talk to the Hand,0,1,2
+253,L is for Loser,2,1,2
+254,Default Nina,0,0,2
+255,NiNa Outfit Default,3,1,2
+256,TshirtInnocent Light,2,2,2
+257,Tshirt Innocent Dark,2,2,2
+258,TshirtInfected,2,2,2
+259,Tshirt Grey Bunnies,2,1,2
+260,TshirtKawaii,2,1,2
+261,Walther PPQ,2,2,2
+262,Terror JawBone,2,2,2
+263,Demon,3,1004,2
+264,Halloween Wristband,0,1004,1
+265,Candy Bucket Hat,1,1004,1
+266,My Candy! Victory Pose,1,1004,2
+267,Bride of Frankenstein Hair,2,1004,1
+268,Kitty Nina Outfit & Facepaint,2,1004,2
+269,Halloween Pistol,2,1004,2
+270,Too Greedy Defeat Pose,3,1004,2
+271,Zombie Chang Outfit,3,1004,2
+272,Zombie Hand Melee Weapon,3,1004,1
+273,Black Cat Ears,2,1004,1
+274,France t-shirt,1,1,2
+275,Turkey t-shirt,1,1,2
+276,Thai t-shirt,1,1,2
+277,Hungary t-shirt,1,1,2
+278,JT45 France,1,1,2
+279,JT45 Hungary,1,1,2
+280,JT45 Turkey,1,1,2
+281,JT45 Thailand,1,1,2
+282,Twitch T-Shirt,2,2,2
+283,Icicle Melee Weapon,0,1005,1
+284,Wrapped Wristband,1,1005,1
+285,Tangled,1,1005,2
+286,Present Box Outfit,2,1005,2
+287,Snowman Yeti,2,1005,2
+288,Water Pistol,2,1005,2
+289,Christmas Jumper,3,1005,2
+290,Present Opening,3,1005,2
+291,Blue Partyhat,3,1005,1
+292,White Partyhat,3,1005,1
+293,Purple Partyhat,3,1005,1
+294,Green Partyhat,3,1005,1
+295,Red Partyhat,3,1005,1
+296,Yellow Partyhat,3,1005,1
+297,Labrador,0,5,2
+298,White Wolf,1,5,2
+299,Foxy,2,5,2
+300,Poodle,2,5,2
+301,Hyena,2,5,2
+302,War Paint,2,1,2
+303,Mandrill,2,1,2
+304,Orangutan,1,1,2
+305,Beastial,1,1,2
+306,Grinch,0,1,2
+307,Bunny ears,0,1006,1
+308,Pentagram,1,1007,1
+309,Smashed,1,1007,2
+310,Sweet Skull,1,1007,2
+311,Pumpkin Suit,2,1007,2
+312,Get Lit,2,1007,2
+313,Skeleton,2,1007,2
+314,Zombie Foot,3,1007,1
+315,Demonic,3,1007,2
+316,Disguise Mask,3,1007,1
+317,Wakizashi,3,2,1
+318,You Suck,2,2,2
+319,Vampire,0,6,2
+320,Sacrificed,3,1007,2
+321,Thumbs Up,2,1007,2
+322,Demonic Hair,3,1007,1
+324,Hatchet,1,1007,1
+325,Pumpkin suit hair,2,1007,1
+326,Stake,3,2,1
+327,Sparkles,2,6,2
+328,Edible,1,1008,1
+329,Circus Hair,1,1008,1
+330,Circus Clothes,1,1008,2
+331,Ominous,1,1008,2
+332,Balloon Sword,2,1008,1
+333,Hit Squad Hair,2,1008,1
+334,Hit Squad Clothes,2,1008,2
+335,Relic,2,1008,2
+336,Day of the dead Hair,3,1008,1
+337,Day of the dead Clothes,3,1008,2
+338,Twisted,3,1008,2
+339,Blessed Hair,3,1008,1
+340,Blessed Clothes,3,1008,2
+341,Glampire,3,1008,2
+342,Wreath,1,1009,1
+343,Sickness Hat,1,1009,2
+344,Sickness Clothes,1,1009,2
+345,Be Quiet,1,1009,2
+346,Antler,2,1009,1
+347,Red Velvet,2,1009,2
+348,Candle,2,1009,1
+349,Onesie,3,1009,2
+350,Passed Out,3,1009,2
+351,On Santas Shoulders,3,1009,2
+352,Krampus,3,1009,2
+353,Cornrows,3,1009,1
+354,Too Much Chocolate,0,1010,2
+355,Egg Juggle,1,1010,2
+356,Bunny Teeth,1,1010,1
+357,Chocolate,1,1010,1
+358,Easter Wrapped,2,1010,2
+359,Pastel Suit,2,1010,2
+360,Tulip,2,1010,1
+361,Eating Contest,3,1010,2
+362,Spring Attire,3,1010,2
+363,On Bunny's Shoulders,3,1010,2
+364,Bunny Wristband,1,1010,1
+365,Eggshell,2,1010,2
+366,Foil Bunny,3,1011,2
+367,Eating Carrot,1,1011,1
+368,Bunny Love,2,1011,2
+369,Imposter Bunny,2,1011,2
+370,Boater,3,1010,1
+371,Bronze Crown,3,4,1
+372,Silver Crown,3,4,1
+373,Gold Crown,3,4,1
+374,Banana,2,1,1
+375,Burrito,3,1,1
+376,Ruler,1,1,1
+377,Screwdriver,0,1,1
+378,Surgical Mask,2,1,1
+379,Thin Paintbrush,1,1,1
+380,Toothpick,1,1,1
