@@ -34,9 +34,9 @@ https://deceit-live.baseline.gg/stats?userId=10
 | eloRank     | unsigned int                                                        | Position on the elo leaderboard                           |
 | repRank     | unsigned int                                                        | Position on the reputation leaderboard                    |
 | banner      | byte                                                                | Last season rank (offset from bronze 20)                  |
-| character   | [chracter enum](#character-enum)                                    | Currently selected character                              |
+| character   | [character enum](#character-enum)                                    | Currently selected character                              |
 | perks       | unsigned short array                                                | Array of currently selected perk ids                      |
-| loadout?    | [chracter enum](#character-enum) to [loadout](#user-loadout-format) | Key-value pair of character id to an unsigned short array |
+| loadout?    | [character enum](#character-enum) to [loadout](#user-loadout-format) | Key-value pair of character id to an unsigned short array |
 | stats?      | [stats struct](#user-stats-structure)                               | User statistics                                           |
 ###### User Stats Structure
 <!---
