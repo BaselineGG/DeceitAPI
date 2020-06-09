@@ -19,7 +19,7 @@ Currently the API is limited to 1,000 calls a day per IP.
 
 ## Resources
 * [unlocks.csv](/resources/unlocks.csv)
-
+* [perks.json](/resources/perks.json)
 ## Get Involved
 Get involved with the Deceit developer community by joining our [Discord server](https://discord.gg/deceit)! 
 Use the channel #api-discussion for support and any queries you may have about this service.
