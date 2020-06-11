@@ -11,7 +11,7 @@ We also make no guarantees to the availability or stability of the API.
 
 **Please note these experimental APIs have no guarantee of availability, may be subject to rate limiting and may change at any time. We are looking at a large rework of our backend systems and this will likely bring a full documented fully-featured API in the future.**
 
-Currently the API is limited to 1,000 calls a day per IP. 
+Currently the API is limited to 10,000 calls a day per IP. 
 
 ## Contents
 * [Stats](/api/Stats.md)
