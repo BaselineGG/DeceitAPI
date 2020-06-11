@@ -16,6 +16,7 @@ Currently the API is limited to 1,000 calls a day per IP.
 ## Contents
 * [Stats](/api/Stats.md)
 * [Hiscores](/api/Hiscores.md)
+* [Perk Tree](/api/PerkTree.md)
 
 ## Resources
 * [unlocks.csv](/resources/unlocks.csv)
