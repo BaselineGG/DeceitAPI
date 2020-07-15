@@ -95,10 +95,10 @@ https://deceit-live.baseline.gg/stats?userId=10
 | s_voted_on_incorrect        | unsigned int  | Times voted out incorrectly                |
 | s_times_downed              | unsigned int  | Times downed                               |
 | s_downs                     | unsigned int  | Players downed                             |
-| down_infected_on_innocent   | unsigned int  | Infected downed as innocent                |
-| down_infected_on_infected   | unsigned int  | Infected downed as infected                |
-| down_innocent_on_innocent   | unsigned int  | Innocents downed as innocent               |
-| down_innocent_on_infected   | unsigned int  | Total downed innocents as infected         |
+| down_infected_on_innocent   | unsigned int  | Times downed by an Infected when Innocent  |
+| down_infected_on_infected   | unsigned int  | Times downed by an Infected when Infected  |
+| down_innocent_on_innocent   | unsigned int  | Times downed by an Innocent when Innocent  |
+| down_innocent_on_infected   | unsigned int  | Times downed by an Innocent when Infected  |
 | s_meters_moved              | unsigned long | Distance travelled in meters               |
 | time_played_in_game         | unsigned int  | Time played in-game (in seconds)           |
 | s_time_dark                 | unsigned int  | Time spent in dark (in seconds)            |
