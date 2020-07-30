@@ -1,385 +1,912 @@
-Id,Name,Rarity,"Type: (Default = 0, Unlockable = 1, Not unlockable = 2, ""Earned"" = 3, ""Hiscore"" = 4, ""Own Werewolf DLC"" = 5, ""Own Vampire DLC"" = 6 Events=1000+)","Tier (1 = Hair/Head Accessories/WristBand/Knife, 2 = Rest)"
-1,Short wavey,0,0,1
-2,Short wavey blue,0,0,1
-3,Mohawk,0,0,1
-4,Bald,0,0,1
-5,Green wild hair,1,1000,1
-6,Purple mohawk hair,1,1000,1
-7,Nothing,0,0,1
-8,Green Accent Sunglasses,0,0,1
-9,Nerd glasses,0,0,1
-10,Pumpkin Mask,1,1000,1
-11,Hockey Mask,1,1000,1
-12,Scrubs,0,0,2
-12,Scrubs,0,0,2
-13,Medical Scrubs,0,0,2
-14,Shirtless,0,0,2
-15,Pumpkin Scrubs,1,1000,2
-16,Prison,1,1000,2
-17,Duck,0,1,2
-18,Woodland Scrubs,0,1,2
-19,Default Wristband,0,0,1
-20,Blue,0,0,1
-21,Bone,1,1000,1
-22,Pumpkin,1,1000,1
-23,Sweets,1,1000,1
-24,Black,0,1,1
-25,Pink,0,1,1
-26,JT45 Olive,0,0,2
-27,JT45 Tan,0,0,2
-28,JT45 Bone,1,1000,2
-29,JT45 Pumpkin,1,1000,2
-30,JT45 Sweets,1,1000,2
-31,JT45 Urban Pink,0,1,2
-32,JT45 Urban Red,0,1,2
-33,Combat Knife,0,0,1
-34,Dragon knife,0,0,1
-35,Bone knife,1,1000,1
-36,Pumpkin knife,1,1000,1
-37,Sweets knife,1,1000,1
-38,Nurse,0,1,2
-39,Psych,0,1,2
-40,Desert,1,1,2
-41,Green,0,1,1
-42,Red,0,1,1
-43,Wetland,1,1,1
-44,Woodland,1,1,1
-45,Yellow,0,1,1
-46,Bronze,3,4,1
-47,Silver,3,4,1
-48,Gold,3,4,1
-49,JT45 Silver,3,4,2
-50,JT45 Gold,3,4,2
-51,JT45 Digital Blue,0,1,2
-52,JT45 Hunter,0,1,2
-53,JT45 Sheen,2,1,2
-54,JT45 Shirly,2,1,2
-55,JT45 Safari,2,1,2
-56,JT45 Tiger,0,1,2
-57,JT45 Freedom,1,1,2
-58,JT45 Jack,1,1,2
-59,JT45 Woodland,0,1,2
-60,JT45 Bronze,3,4,2
-61,Bronze knife,3,4,1
-62,Silver knife,3,4,1
-63,Gold knife,3,4,1
-64,Afro,0,0,1
-65,Large Afro,0,0,1
-66,Blue Halfmoon Glasses,0,0,1
-67,Scrubs,0,0,2
-68,Cat,0,1,2
-69,Surgical,0,1,2
-70,Golden Sunglasses,3,4,1
-71,Silver Sunglasses,3,4,1
-72,Bronze Sunglasses,3,4,1
-73,CrReaM Mask,1,1,1
-74,Founders Male,3,2,2
-74,Founders Male,3,2,2
-75,Founders Female,3,2,2
-75,Founders Female,3,2,2
-76,Founders Watch,3,2,1
-77,JT45 Founders,3,2,2
-78,Founders knife,3,2,1
-79,Rachel,0,0,1
-80,Wetland,0,1,2
-81,Default Terror,0,0,2
-82,Clown Terror,3,1001,2
-83,Santa Scrubs Male,1,1001,2
-84,Elf Scrubs Male,1,1001,2
-85,Santa Scrubs Female,1,1001,2
-86,Elf Scrubs Female,1,1001,2
-87,Christmas,1,1001,1
-88,Elftoy,1,1001,1
-89,JT45 Christmas,1,1001,2
-90,JT45 Elftoy,1,1001,2
-91,EGX Watch,3,2,1
-91,Combat Christmas,1,1001,1
-92,Combat Elftoy,1,1001,1
-93,Beanie,0,1,1
-94,Beanie Blue,0,1,1
-95,Rachel Beanie,0,1,1
-95,JT45 EGX,3,2,2
-96,Beanie Green,0,1,1
-97,Elf Hat,1,1001,1
-98,Santa Hat,1,1001,1
-99,Turkey Hat,1,1001,1
-100,Alex Default,0,0,2
-101,Chang Default,0,0,2
-102,Take Pic,0,1,2
-103,Knelt,0,1,2
-104,Cheesey Pose,1,1,2
-105,Fist Pump,1,1,2
-106,Glorious,2,1,2
-107,Pistol Pump,2,1,2
-108,Selfie,2,1,2
-109,Rachel Default,0,0,2
-110,Lisa Default,0,0,2
-111,Hench,0,1,2
-112,Force,1,1,2
-113,Eyyyyyyy,1,1,2
-114,Fem Selfie,2,1,2
-115,Fem DAB,2,1,2
-116,Finish Line,3,1,2
-117,High Five,3,1,2
-118,Power,0,1,2
-119,Alex Default,0,0,2
-120,Chang Default,0,0,2
-121,Arrow to the knee,0,1,2
-122,Help me please!,1,1,2
-123,Cat Got Your Tongue,1,1,2
-124,Defeat,2,1,2
-125,Frustration,2,1,2
-126,Knackered,0,1,2
-127,Run,3,1,2
-128,Tranqued,3,1,2
-129,Rachel Default,0,0,2
-130,Lisa Default,0,0,2
-131,In a Tizz,0,1,2
-132,Backstabbed,0,1,2
-133,Alrighty Then,1,1,2
-134,Anime,1,1,2
-135,Ashamed,2,1,2
-136,Casual,2,1,2
-137,Seppuku,3,1,2
-138,Stressed,3,1,2
-139,AdmiralBahroo Scrubs,1,1,1
-139,AdmiralBahroo Scrubs,1,1,1
-140,LEAN Scrubs,1,1,1
-140,LEAN Scrubs,1,1,1
-141,Diction Scrubs,1,1,1
-141,Diction Scrubs,1,1,1
-145,NinjaHood,1,1,1
-146,St Paddy,1,1002,2
-147,St Paddy Hat,1,1002,1
-148,Lucky Shot,1,1002,2
-149,Alex Flatcap,3,1,1
-150,Chang Snapback,3,1,1
-151,Police Hat,3,1,1
-152,Rachel Hat,3,1,1
-153,Alex Default Clothes,3,1,2
-154,Chang Default,3,1,2
-155,Police,3,1,2
-156,Rachel Default,3,1,2
-157,Police Tonfa,3,1,1
-158,Wooden Tonfa,3,1,1
-159,Deerhorn,3,1,1
-160,Monopod,3,1,1
-161,Mug,3,1,1
-162,JT45 BlasDeLezo,1,1,2
-163,JT45 SchwarzRotGold,1,1,2
-164,JT45 Federation,1,1,2
-165,JT45 Hinomaru,1,1,2
-166,JT45 Five Star,1,1,2
-167,JT45 RoK,1,1,2
-168,ZhanqiTV Scrubs,2,2,2
-168,ZhanqiTV Scrubs,2,2,2
-169,ZhanqiTV Scrubs White,2,2,2
-169,ZhanqiTV Scrubs White,2,2,2
-170,Forest Terrorform,0,1,2
-171,Stag Terrorform,1,2,2
-172,Pale Terrorform,0,1,2
-173,Dark Terrorform,0,1,2
-174,Easter Wristband,0,1003,2
-175,Easter Gun,0,1003,2
-176,Easter Clothes,0,1003,2
-177,Easter DP,1,1003,2
-178,Easter VP,1,1003,2
-179,Carrot Knife,1,1003,2
-180,Bunny Terror,2,1003,2
-181,Spoon,2,1,1
-182,Yeti Terror,0,0,1
-184,Wolfie,0,5,1
-185,Kitchen Knife,3,3,1
-187,Alex Afro,3,3,1
-188,Rachel Afro,3,3,1
-189,Chang Afro,3,3,1
-190,Hans Afro,3,3,1
-191,NiNa Afro,3,3,1
-192,Hans Default Hair,0,0,1
-193,Wrench,3,1,1
-194,Microphone,3,1,1
-195,NiNa Default Hair,0,0,1
-196,Machete,3,2,2
-197,Thriller,3,2,2
-198,Creature,2,2,2
-199,Give me a hand,3,2,2
-200,Stabbed,2,2,2
-201,Tshirt White,0,1,2
-202,Tshirt Black,0,1,2
-203,TShirt Blue,0,1,2
-204,Tshirt Green,0,1,2
-205,Tshirt Pink,0,1,2
-206,Tshirt Yellow,0,1,2
-207,Tshirt UK,1,1,2
-208,Tshirt USA,1,1,2
-209,Tshirt China,1,1,2
-210,Tshirt Germany,1,1,2
-211,Tshirt Japan,1,1,2
-212,Tshirt Russia,1,1,2
-213,Tshirt Canada,1,1,2
-214,Tshirt Poland,1,1,2
-215,Tshirt Spain,1,1,2
-216,Tshirt Team Awesome Blue,1,1,2
-217,Tshirt TAvagrace Pink,1,1,2
-218,Tshirt BewereTerror,2,2,2
-219,Tshirt WereTerror,2,2,2
-220,Tshirt Maragains,1,1,2
-221,Tshirt Korea,1,1,2
-222,Winter Gear,2,1,2
-223,Beanie White,0,1,1
-224,Desert Scrubs,0,1,2
-225,Old Prison Scrubs,1,1,2
-226,Bloody,1,1,2
-227,Hans Default Clothes,3,1,2
-228,Hans Suit,3,1,2
-229,Pumping Iron,0,1,2
-230,Salute,2,1,2
-231,Fix-It,3,1,2
-232,Maverick,1,1,2
-233,Slap-Off,1,1,2
-234,Hans,1,0,2
-235,Too Old For This,3,1,2
-236,Brace For Impact!,0,1,2
-237,Injured Arm,1,1,2
-238,Stunned,0,1,2
-239,That's Not Normal,2,1,2
-240,I'm Dying!,0,0,2
-241,Cat Ears,3,1,1
-242,Skulls,0,1,2
-243,Curtsy,0,1,2
-244,Drop the Mic!,3,1,2
-245,Pop Star,2,1,2
-246,Nina,0,0,2
-247,Thumbs Down,1,1,2
-248,Ha!,0,1,2
-249,Swoon,0,1,2
-250,Sulking,0,1,2
-251,Gamer Rage,3,1,2
-252,Talk to the Hand,0,1,2
-253,L is for Loser,2,1,2
-254,Default Nina,0,0,2
-255,NiNa Outfit Default,3,1,2
-256,TshirtInnocent Light,2,2,2
-257,Tshirt Innocent Dark,2,2,2
-258,TshirtInfected,2,2,2
-259,Tshirt Grey Bunnies,2,1,2
-260,TshirtKawaii,2,1,2
-261,Walther PPQ,2,2,2
-262,Terror JawBone,2,2,2
-263,Demon,3,1004,2
-264,Halloween Wristband,0,1004,1
-265,Candy Bucket Hat,1,1004,1
-266,My Candy! Victory Pose,1,1004,2
-267,Bride of Frankenstein Hair,2,1004,1
-268,Kitty Nina Outfit & Facepaint,2,1004,2
-269,Halloween Pistol,2,1004,2
-270,Too Greedy Defeat Pose,3,1004,2
-271,Zombie Chang Outfit,3,1004,2
-272,Zombie Hand Melee Weapon,3,1004,1
-273,Black Cat Ears,2,1004,1
-274,France t-shirt,1,1,2
-275,Turkey t-shirt,1,1,2
-276,Thai t-shirt,1,1,2
-277,Hungary t-shirt,1,1,2
-278,JT45 France,1,1,2
-279,JT45 Hungary,1,1,2
-280,JT45 Turkey,1,1,2
-281,JT45 Thailand,1,1,2
-282,Twitch T-Shirt,2,2,2
-283,Icicle Melee Weapon,0,1005,1
-284,Wrapped Wristband,1,1005,1
-285,Tangled,1,1005,2
-286,Present Box Outfit,2,1005,2
-287,Snowman Yeti,2,1005,2
-288,Water Pistol,2,1005,2
-289,Christmas Jumper,3,1005,2
-290,Present Opening,3,1005,2
-291,Blue Partyhat,3,1005,1
-292,White Partyhat,3,1005,1
-293,Purple Partyhat,3,1005,1
-294,Green Partyhat,3,1005,1
-295,Red Partyhat,3,1005,1
-296,Yellow Partyhat,3,1005,1
-297,Labrador,0,5,2
-298,White Wolf,1,5,2
-299,Foxy,2,5,2
-300,Poodle,2,5,2
-301,Hyena,2,5,2
-302,War Paint,2,1,2
-303,Mandrill,2,1,2
-304,Orangutan,1,1,2
-305,Beastial,1,1,2
-306,Grinch,0,1,2
-307,Bunny ears,0,1006,1
-308,Pentagram,1,1007,1
-309,Smashed,1,1007,2
-310,Sweet Skull,1,1007,2
-311,Pumpkin Suit,2,1007,2
-312,Get Lit,2,1007,2
-313,Skeleton,2,1007,2
-314,Zombie Foot,3,1007,1
-315,Demonic,3,1007,2
-316,Disguise Mask,3,1007,1
-317,Wakizashi,3,2,1
-318,You Suck,2,2,2
-319,Vampire,0,6,2
-320,Sacrificed,3,1007,2
-321,Thumbs Up,2,1007,2
-322,Demonic Hair,3,1007,1
-324,Hatchet,1,1007,1
-325,Pumpkin suit hair,2,1007,1
-326,Stake,3,2,1
-327,Sparkles,2,6,2
-328,Edible,1,1008,1
-329,Circus Hair,1,1008,1
-330,Circus Clothes,1,1008,2
-331,Ominous,1,1008,2
-332,Balloon Sword,2,1008,1
-333,Hit Squad Hair,2,1008,1
-334,Hit Squad Clothes,2,1008,2
-335,Relic,2,1008,2
-336,Day of the dead Hair,3,1008,1
-337,Day of the dead Clothes,3,1008,2
-338,Twisted,3,1008,2
-339,Blessed Hair,3,1008,1
-340,Blessed Clothes,3,1008,2
-341,Glampire,3,1008,2
-342,Wreath,1,1009,1
-343,Sickness Hat,1,1009,2
-344,Sickness Clothes,1,1009,2
-345,Be Quiet,1,1009,2
-346,Antler,2,1009,1
-347,Red Velvet,2,1009,2
-348,Candle,2,1009,1
-349,Onesie,3,1009,2
-350,Passed Out,3,1009,2
-351,On Santas Shoulders,3,1009,2
-352,Krampus,3,1009,2
-353,Cornrows,3,1009,1
-354,Too Much Chocolate,0,1010,2
-355,Egg Juggle,1,1010,2
-356,Bunny Teeth,1,1010,1
-357,Chocolate,1,1010,1
-358,Easter Wrapped,2,1010,2
-359,Pastel Suit,2,1010,2
-360,Tulip,2,1010,1
-361,Eating Contest,3,1010,2
-362,Spring Attire,3,1010,2
-363,On Bunny's Shoulders,3,1010,2
-364,Bunny Wristband,1,1010,1
-365,Eggshell,2,1010,2
-366,Foil Bunny,3,1011,2
-367,Eating Carrot,1,1011,1
-368,Bunny Love,2,1011,2
-369,Imposter Bunny,2,1011,2
-370,Boater,3,1010,1
-371,Bronze Crown,3,4,1
-372,Silver Crown,3,4,1
-373,Gold Crown,3,4,1
-374,Banana,2,1,1
-375,Burrito,3,1,1
-376,Ruler,1,1,1
-377,Screwdriver,0,1,1
-378,Surgical Mask,2,1,1
-379,Thin Paintbrush,1,1,1
-380,Toothpick,1,1,1
+Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Collection ID,Vault
+32769,Afro,Common,TRUE,TRUE,FALSE,,,,FALSE
+16387,Black_Beanie,Uncommon,,TRUE,FALSE,,,,FALSE
+81924,Black_Cat_Ears,Rare,,FALSE,FALSE,Halloween,2017,,TRUE
+5,Blue_Beanie,Uncommon,,TRUE,FALSE,,,,FALSE
+6,Blue_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+49159,Boater,Legendary,,FALSE,FALSE,Easter,2020,,FALSE
+81928,Bob,Common,TRUE,TRUE,FALSE,,,,FALSE
+32777,Bride_of_Frankenstein,Uncommon,,FALSE,FALSE,Halloween,2017,,TRUE
+10,Bro_Flow,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+11,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+16395,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+32779,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+49163,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+65547,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+81931,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
+12,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+16396,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+32780,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+49164,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+65548,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+81932,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
+81933,Cat_Cap,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+81934,Cat_Ears,Rare,,TRUE,FALSE,,,,FALSE
+81935,Cat_Ears1,Rare,,TRUE,FALSE,,,,FALSE
+81936,Cat_Ears2,Rare,,TRUE,FALSE,,,,FALSE
+17,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
+16401,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
+49169,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
+65553,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
+81937,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
+32786,Cornrows,Legendary,,FALSE,FALSE,Christmas,2019,,FALSE
+49171,Cowgirl_Hat,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+49172,Demonic_Hair,Legendary,,FALSE,FALSE,Halloween,2018,,TRUE
+21,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+16405,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+32789,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+49173,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+65557,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+81941,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+22,Flat_Cap,Rare,,TRUE,FALSE,,,,FALSE
+23,Flat_Cap1,Rare,,TRUE,FALSE,,,,FALSE
+24,Flat_Cap2,Rare,,TRUE,FALSE,,,,FALSE
+65561,Flight_Suit_Goggles,Rare,,TRUE,FALSE,,,,FALSE
+65562,Flight_Suit_Goggles1,Rare,,TRUE,FALSE,,,,FALSE
+65563,Flight_Suit_Goggles2,Rare,,TRUE,FALSE,,,,FALSE
+28,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+16412,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+32796,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+49180,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+65564,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+81948,Gold_Crown,Legendary,,FALSE,TRUE,,,6,FALSE
+16413,Green_Afro,Uncommon,,FALSE,FALSE,Halloween,2019,,FALSE
+32798,Green_Beanie,Uncommon,,TRUE,FALSE,,,,FALSE
+49183,Green_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+32,Halo,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+65569,Ice_Pack,Uncommon,,FALSE,FALSE,Christmas,2019,,FALSE
+65570,Kongphan_Hood,Uncommon,,FALSE,FALSE,,,,FALSE
+32803,Large_Afro,Uncommon,,TRUE,FALSE,,,,FALSE
+16420,Mohawk,Common,TRUE,TRUE,FALSE,,,,FALSE
+32805,Hit_Squad_Mohawk,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+16422,Mohawk_Purple,Uncommon,,FALSE,FALSE,Halloween,2016,,FALSE
+32807,Police_Hat,Rare,,TRUE,FALSE,,,,FALSE
+32808,Police_Hat1,Rare,,TRUE,FALSE,,,,FALSE
+32809,Police_Hat2,Rare,,TRUE,FALSE,,,,FALSE
+49194,Ponytail,Common,TRUE,TRUE,FALSE,,,,FALSE
+43,Pumpkin_Hat,Rare,,FALSE,FALSE,Halloween,2017,,TRUE
+44,Pumpkin_Suit_Afro,Uncommon,,FALSE,FALSE,Halloween,2018,,TRUE
+32813,Purple_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+49198,Red_Beanie,Uncommon,,TRUE,FALSE,,,,FALSE
+65583,Red_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+81968,Roses,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+49,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+16433,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+32817,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+49201,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+65585,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+81969,Santa_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+16434,Shaved,Uncommon,,TRUE,FALSE,,,,FALSE
+52,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+16436,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+32820,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+49204,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+65588,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+81972,Silver_Crown,Rare,,FALSE,TRUE,,,5,FALSE
+65589,Slick_Back,Common,TRUE,TRUE,FALSE,,,,FALSE
+16438,Snapback,Rare,,TRUE,FALSE,,,,FALSE
+16439,Snapback1,Rare,,TRUE,FALSE,,,,FALSE
+16440,Snapback2,Rare,,TRUE,FALSE,,,,FALSE
+57,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+16441,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+32825,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+49209,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+65593,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+81977,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+65594,Summer_Flight_Goggles,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+16443,Summer_Snapback,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+32828,Tennis_Hat,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+49213,Trilby,Rare,,TRUE,FALSE,,,,FALSE
+49214,Trilby1,Rare,,TRUE,FALSE,,,,FALSE
+49215,Trilby2,Rare,,TRUE,FALSE,,,,FALSE
+64,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+16448,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+32832,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+49216,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+65600,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+81984,Turkey_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+65601,White_Beanie,Uncommon,,TRUE,FALSE,,,,FALSE
+16450,White_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+67,Wild,Common,TRUE,TRUE,FALSE,,,,FALSE
+68,Wild_Blue,Uncommon,,TRUE,FALSE,,,,FALSE
+69,Wild_Green,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+81990,Yellow_Partyhat,Legendary,,FALSE,TRUE,Christmas,2017,,FALSE
+1025,Black_Square_Glasses,Uncommon,,TRUE,FALSE,,,,FALSE
+33794,Blue_Halfmoon_Glasses,Uncommon,,TRUE,FALSE,,,,FALSE
+1027,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+17411,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+33795,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+50179,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+66563,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+82947,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
+1028,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+17412,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+33796,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+50180,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+66564,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+82948,Bunny_Teeth,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+1029,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+17413,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+33797,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+50181,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+66565,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+82949,Disguise_Mask,Legendary,,FALSE,TRUE,Halloween,2018,,FALSE
+1030,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+17414,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+33798,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+50182,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+66566,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+82950,Gold_Sunglasses,Legendary,,FALSE,TRUE,,,3,FALSE
+17415,Green_Square_Sunglasses,Uncommon,,TRUE,FALSE,,,,FALSE
+17416,Hockey_Mask,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+1033,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+17417,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+33801,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+50185,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+66569,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+82953,None,Common,TRUE,TRUE,FALSE,,,,FALSE
+1034,Pumpkin_Mask,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+1035,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+17419,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+33803,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+50187,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+66571,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+82955,Silver_Sunglasses,Legendary,,FALSE,TRUE,,,2,FALSE
+66572,Surgical_Mask,Rare,,TRUE,FALSE,,,,FALSE
+1036,Surgical_Mask,Rare,,FALSE,FALSE,,,,TRUE
+17420,Surgical_Mask,Rare,,FALSE,FALSE,,,,TRUE
+33804,Surgical_Mask,Rare,,FALSE,FALSE,,,,TRUE
+50188,Surgical_Mask,Rare,,FALSE,FALSE,,,,TRUE
+82956,Surgical_Mask,Rare,,FALSE,FALSE,,,,TRUE
+66573,Thermometer,Uncommon,,FALSE,FALSE,Christmas,2019,,FALSE
+17422,Toothpick,Uncommon,,TRUE,FALSE,,,,FALSE
+1038,Toothpick,Uncommon,,FALSE,FALSE,,,,TRUE
+33806,Toothpick,Uncommon,,FALSE,FALSE,,,,TRUE
+50190,Toothpick,Uncommon,,FALSE,FALSE,,,,TRUE
+66574,Toothpick,Uncommon,,FALSE,FALSE,,,,TRUE
+82958,Toothpick,Uncommon,,FALSE,FALSE,,,,TRUE
+17423,Yeti_Mask,Uncommon,,FALSE,FALSE,,,,FALSE
+2049,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18433,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34817,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+51201,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+67585,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+83969,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+2050,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18434,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34818,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51202,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67586,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+83970,Bewere_Terror_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67587,Black_Suit,Rare,,FALSE,FALSE,,,,TRUE
+18436,Black_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2052,Black_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34820,Black_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51204,Black_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67588,Black_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83972,Black_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2053,Blessed,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+2054,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18438,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34822,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+51206,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+67590,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+83974,Bloody_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34823,Blue_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2055,Blue_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18439,Blue_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51207,Blue_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67591,Blue_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83975,Blue_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2056,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18440,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34824,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51208,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67592,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83976,Canada_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34825,Cat_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2058,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18442,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34826,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51210,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67594,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83978,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67595,Christmas_Jumper,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
+18444,Circus_Suit,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+51213,Cowgirl,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+2062,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18446,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34830,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51214,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67598,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+83982,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+83983,Day_Of_The_Dead,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+51216,Demonic,Legendary,,FALSE,FALSE,Halloween,2018,,TRUE
+67601,Desert_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+18450,Duck_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2067,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+18451,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+34835,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+51219,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+67603,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+83987,Easter_Terror_Tshirt,Uncommon,,FALSE,FALSE,Easter,2017,,TRUE
+83988,Eating_Contest,Legendary,,FALSE,FALSE,Easter,2020,,FALSE
+2069,Elf_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+18453,Elf_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+34837,Elf_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+51221,Elf_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+67606,Flight_Suit,Rare,,TRUE,FALSE,,,,FALSE
+67607,Flight_Suit1,Rare,,TRUE,FALSE,,,,FALSE
+67608,Flight_Suit2,Rare,,TRUE,FALSE,,,,FALSE
+2073,Founders_Scrubs,Uncommon,,FALSE,TRUE,,,,FALSE
+18457,Founders_Scrubs,Uncommon,,FALSE,TRUE,,,,FALSE
+34841,Founders_Scrubs,Uncommon,,FALSE,TRUE,,,,FALSE
+51225,Founders_Scrubs,Uncommon,,FALSE,TRUE,,,,FALSE
+2074,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18458,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34842,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51226,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67610,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83994,France_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2075,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18459,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34843,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51227,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67611,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83995,Germany_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51228,Green_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2076,Green_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18460,Green_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34844,Green_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67612,Green_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83996,Green_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51229,Grey_Bunnies_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2077,Grey_Bunnies_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18461,Grey_Bunnies_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34845,Grey_Bunnies_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67613,Grey_Bunnies_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83997,Grey_Bunnies_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34846,Hit_Squad,Legendary,,FALSE,FALSE,Halloween,2019,,FALSE
+2079,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18463,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34847,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51231,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67615,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+83999,Hungary_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2080,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18464,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34848,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51232,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67616,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+84000,Infected_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+2081,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18465,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34849,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51233,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67617,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84001,Japan_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84002,Kawaii,Rare,,TRUE,FALSE,,,,FALSE
+84003,Kawaii_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2083,Kawaii_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18467,Kawaii_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34851,Kawaii_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51235,Kawaii_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67619,Kawaii_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84004,Kawaii1,Rare,,TRUE,FALSE,,,,FALSE
+84005,Kawaii2,Rare,,TRUE,FALSE,,,,FALSE
+84006,Kitty_Cat,Legendary,,FALSE,FALSE,Halloween,2017,,TRUE
+2087,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18471,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34855,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51239,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67623,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84007,Korea_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2088,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18472,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34856,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+51240,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+67624,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+84008,Lean_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+2089,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18473,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34857,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51241,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67625,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+84009,Light_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+2090,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18474,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34858,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51242,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67626,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84010,Maragains_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2091,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18475,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34859,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+51243,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+67627,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+84011,Marla_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+2092,Medical_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2093,Nurse_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2094,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18478,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+34862,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+51246,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+67630,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+84014,Old_Prison_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
+18479,On_Bunnys_Shoulders,Legendary,,FALSE,FALSE,Easter,2020,,FALSE
+2096,On_Santas_Shoulders,Legendary,,FALSE,FALSE,Christmas,2019,,FALSE
+34865,Onsie,Legendary,,FALSE,FALSE,Christmas,2019,,FALSE
+84018,Oversized_Hoodie,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+2099,Pastel_Suit,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+84020,Pink_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2100,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18484,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34868,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51252,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67636,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2101,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18485,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34869,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51253,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67637,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84021,Poland_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34870,Police_Uniform,Rare,,TRUE,FALSE,,,,FALSE
+34871,Police_Uniform1,Rare,,TRUE,FALSE,,,,FALSE
+34872,Police_Uniform2,Rare,,TRUE,FALSE,,,,FALSE
+2105,Preppy,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+34874,Present_Box,Legendary,,FALSE,FALSE,Halloween,2017,,TRUE
+18491,Prison_Scrubs,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+18492,Psych_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2109,Pumpkin_Scrubs,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+2110,Pumpkin_Suit,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+84031,Red_Velvet,Legendary,,FALSE,FALSE,Christmas,2019,,FALSE
+2112,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+18496,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+34880,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+51264,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+67648,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+84032,Red_Winter_Coat,Rare,,FALSE,FALSE,,,,TRUE
+2113,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18497,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34881,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51265,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67649,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84033,Russia_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2114,Santa_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+18498,Santa_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+34882,Santa_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+51266,Santa_Scrubs,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+2115,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+18499,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+34883,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+51267,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+67651,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+84035,Scrubs,Common,TRUE,TRUE,FALSE,,,,FALSE
+18500,Shirtless,Uncommon,,TRUE,FALSE,,,,FALSE
+67653,Sick_Day_Jumper,Rare,,FALSE,FALSE,Christmas,2019,,FALSE
+67654,Skeleton,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+84039,Skull_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+51272,Smart,Rare,,TRUE,FALSE,,,,FALSE
+2121,Smart_Casual,Rare,,TRUE,FALSE,,,,FALSE
+2122,Smart_Casual1,Rare,,TRUE,FALSE,,,,FALSE
+2123,Smart_Casual2,Rare,,TRUE,FALSE,,,,FALSE
+51276,Smart1,Rare,,TRUE,FALSE,,,,FALSE
+51277,Smart2,Rare,,TRUE,FALSE,,,,FALSE
+2126,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18510,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34894,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51278,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67662,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84046,Spain_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51279,Spring_Attire,Legendary,,FALSE,FALSE,Easter,2020,,FALSE
+2128,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+18512,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+34896,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+51280,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+67664,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+84048,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
+67665,Summer_Flight_Suit,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+18514,Summer_Tank,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+34899,Surgical_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+18516,Tank_Top,Rare,,TRUE,FALSE,,,,FALSE
+18517,Tank_Top1,Rare,,TRUE,FALSE,,,,FALSE
+18518,Tank_Top2,Rare,,TRUE,FALSE,,,,FALSE
+2135,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18519,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34903,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51287,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67671,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84055,TAvagrace_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2136,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18520,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34904,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51288,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67672,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84056,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34905,Tennis,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+2138,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18522,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34906,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51290,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67674,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84058,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2139,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18523,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34907,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51291,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67675,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84059,Turkey_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2140,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18524,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34908,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51292,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67676,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+84060,Twitch_London_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+2141,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18525,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34909,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51293,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67677,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84061,UK_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2142,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18526,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34910,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51294,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67678,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84062,USA_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2143,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18527,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34911,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51295,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67679,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+84063,Werewolf_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51296,Wetland_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
+2145,White_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+18529,White_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34913,White_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51297,White_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+67681,White_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84065,White_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2146,Woodland_Scrub,Uncommon,,TRUE,FALSE,,,,FALSE
+67683,Yellow_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
+2147,Yellow_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+18531,Yellow_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+34915,Yellow_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+51299,Yellow_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+84067,Yellow_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
+2148,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+18532,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+34916,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+51300,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+67684,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+84068,You_Suck_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+2149,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+18533,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+34917,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+51301,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+67685,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+84069,Zhanqi_Red_Scrubs,Uncommon,,,,,,,
+2150,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+18534,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+34918,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+51302,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+67686,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+84070,Zhanqi_White_Scrubs,Uncommon,,,,,,,
+18535,Zombie,Legendary,,FALSE,FALSE,Halloween,2017,,TRUE
+6145,Arms_Crossed,Common,TRUE,TRUE,FALSE,,,,FALSE
+71682,Impressive,Common,TRUE,TRUE,FALSE,,,,FALSE
+55299,Be_Quiet,Rare,,FALSE,FALSE,Christmas,2019,,FALSE
+88068,Bunny_Love,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+6149,Cheesy_Smile,Uncommon,,TRUE,FALSE,,,,FALSE
+6150,Creature,Uncommon,,FALSE,,,,,TRUE
+22534,Creature,Uncommon,,FALSE,,,,,TRUE
+38918,Creature,Uncommon,,FALSE,,,,,TRUE
+55302,Creature,Uncommon,,FALSE,,,,,TRUE
+71686,Creature,Uncommon,,FALSE,,,,,TRUE
+88070,Creature,Uncommon,,FALSE,,,,,TRUE
+88071,Curtsy,Uncommon,,TRUE,FALSE,,,,FALSE
+55304,Dab,Uncommon,,TRUE,FALSE,,,,FALSE
+88073,Drop_The_Mic,Rare,,TRUE,FALSE,,,,FALSE
+38922,Egg_Juggle,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+6155,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+22539,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+38923,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+55307,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+71691,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+88075,Eggcellent,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+55308,Eyyyyy,Uncommon,,TRUE,FALSE,,,,FALSE
+38925,Finish_Line,Uncommon,,TRUE,FALSE,,,,FALSE
+22542,Fist_Pump,Uncommon,,TRUE,FALSE,,,,FALSE
+71695,Fix_It,Rare,,TRUE,FALSE,,,,FALSE
+38928,Force,Rare,,TRUE,FALSE,,,,FALSE
+38929,Get_Lit,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+6162,Glorious,Uncommon,,TRUE,FALSE,,,,FALSE
+22547,Good_Morning,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+38932,Heart,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+55317,Hench,Uncommon,,TRUE,FALSE,,,,FALSE
+55318,High_Five,Uncommon,,TRUE,FALSE,,,,FALSE
+22551,Knelt,Rare,,TRUE,FALSE,,,,FALSE
+88088,Laugh,Uncommon,,TRUE,FALSE,,,,FALSE
+71705,Maverick,Uncommon,,TRUE,FALSE,,,,FALSE
+71706,My_Candy,Rare,,FALSE,FALSE,Halloween,2017,,TRUE
+55323,Ominous,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+22556,Pistol_Pump,Rare,,TRUE,FALSE,,,,FALSE
+88093,Pop_Star,Rare,,TRUE,FALSE,,,,FALSE
+38942,Power,Uncommon,,TRUE,FALSE,,,,FALSE
+6175,Present_Opening,Legendary,,FALSE,FALSE,Christmas,2017,,TRUE
+71712,Pumping_Iron,Uncommon,,TRUE,FALSE,,,,FALSE
+71713,Salute,Uncommon,,TRUE,FALSE,,,,FALSE
+6178,Selfie,Rare,,TRUE,FALSE,,,,FALSE
+38947,Selca,Rare,,TRUE,FALSE,,,,FALSE
+55332,Sitting_Thumbs_Up,Common,TRUE,TRUE,FALSE,,,,FALSE
+71717,Slap_Off,Uncommon,,TRUE,FALSE,,,,FALSE
+38950,Smug,Common,TRUE,TRUE,FALSE,,,,FALSE
+88103,Stroll,Common,TRUE,TRUE,FALSE,,,,FALSE
+6184,Take_Pic,Rare,,TRUE,FALSE,,,,FALSE
+6185,Thriller,Uncommon,,FALSE,,,,,TRUE
+22569,Thriller,Uncommon,,FALSE,,,,,TRUE
+38953,Thriller,Uncommon,,FALSE,,,,,TRUE
+55337,Thriller,Uncommon,,FALSE,,,,,TRUE
+71721,Thriller,Uncommon,,FALSE,,,,,TRUE
+88105,Thriller,Uncommon,,FALSE,,,,,TRUE
+88106,Thumbs_Down,Uncommon,,TRUE,FALSE,,,,FALSE
+22571,Wide,Common,TRUE,TRUE,FALSE,,,,FALSE
+6188,Thumbs_Up,Uncommon,,FALSE,FALSE,Halloween,2018,,TRUE
+56321,Alrighty_Then,Rare,,TRUE,FALSE,,,,FALSE
+39938,Anime,Uncommon,,TRUE,FALSE,,,,FALSE
+56323,Ashamed,Uncommon,,TRUE,FALSE,,,,FALSE
+39940,Backstabbed,Rare,,TRUE,FALSE,,,,FALSE
+72709,Brace_For_Impact,Uncommon,,TRUE,FALSE,,,,FALSE
+56326,Buried_Alive,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+7175,Cat_Got_Your_Tongue,Uncommon,,TRUE,FALSE,,,,FALSE
+72712,Choked,Uncommon,,TRUE,FALSE,,,,FALSE
+7177,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+23561,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+39945,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+56329,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+72713,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+89097,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+23562,Defeat,Uncommon,,TRUE,FALSE,,,,FALSE
+23563,Eating_Carrot,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+7180,Frustration,Uncommon,,TRUE,FALSE,,,,FALSE
+89101,Game_Rage,Uncommon,,TRUE,FALSE,,,,FALSE
+7182,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+23566,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+39950,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+56334,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+72718,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+89102,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
+7183,Head_In_Hands,Common,TRUE,TRUE,FALSE,,,,FALSE
+72720,Head_In_the_Sand,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+23569,Help_Me_Please,Uncommon,,TRUE,FALSE,,,,FALSE
+56338,In_a_Tizz,Uncommon,,TRUE,FALSE,,,,FALSE
+72723,Injured_Arm,Uncommon,,TRUE,FALSE,,,,FALSE
+23572,Knackered,Uncommon,,TRUE,FALSE,,,,FALSE
+89109,L_For_Loser,Uncommon,,TRUE,FALSE,,,,FALSE
+23574,Noooo,Common,TRUE,TRUE,FALSE,,,,FALSE
+72727,Not_Normal,Uncommon,,TRUE,FALSE,,,,FALSE
+23576,Passed_Out,Uncommon,,FALSE,FALSE,Christmas,2019,,FALSE
+72729,Possessed,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+56346,Roulette,Common,TRUE,TRUE,FALSE,,,,FALSE
+7195,Run,Uncommon,,TRUE,FALSE,,,,FALSE
+56348,Sacrificed,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+39965,Sad,Common,TRUE,TRUE,FALSE,,,,FALSE
+56350,Seppuku,Rare,,TRUE,FALSE,,,,FALSE
+7199,Shin_Kick,Uncommon,,TRUE,FALSE,,,,FALSE
+89120,Smashed,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+39969,Spare_Me,Uncommon,,TRUE,FALSE,,,,FALSE
+7202,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+23586,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+39970,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+56354,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+72738,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+89122,Stabbed,Rare,,FALSE,FALSE,,,,TRUE
+39971,Stressed,Uncommon,,TRUE,FALSE,,,,FALSE
+72740,Stunned,Common,TRUE,TRUE,FALSE,,,,FALSE
+89125,Sulking,Uncommon,,TRUE,FALSE,,,,FALSE
+89126,Swoon,Uncommon,,TRUE,FALSE,,,,FALSE
+89127,Talk_To_The_Hand,Uncommon,,TRUE,FALSE,,,,FALSE
+89128,Tangled,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
+56361,Too_Greedy,Legendary,,FALSE,FALSE,Halloween,2017,,TRUE
+72746,Too_Much_Chocolate,Uncommon,,FALSE,FALSE,Easter,2020,,FALSE
+72747,Too_Old_For_This,Uncommon,,TRUE,FALSE,,,,FALSE
+23596,Tranqued,Rare,,TRUE,FALSE,,,,FALSE
+89133,Turn_Away,Common,TRUE,TRUE,FALSE,,,,FALSE
+107521,Experiment,Common,TRUE,TRUE,FALSE,,,,FALSE
+107522,Forest,Uncommon,,TRUE,FALSE,,,,FALSE
+107523,Pale,Uncommon,,TRUE,FALSE,,,,FALSE
+107524,Dark,Uncommon,,TRUE,FALSE,,,,FALSE
+107525,Reindeer,Rare,,FALSE,TRUE,Christmas,2016,,FALSE
+107526,Bunny,Rare,,FALSE,TRUE,Easter,2017,,FALSE
+107527,Demon,Legendary,,FALSE,TRUE,Halloween,2017,,FALSE
+107528,Clown,Legendary,,FALSE,TRUE,Christmas,2016,,FALSE
+123913,Yeti,Common,TRUE,TRUE,FALSE,,,,FALSE
+123914,Grump,Uncommon,,TRUE,FALSE,,,,FALSE
+123915,Beastial,Uncommon,,TRUE,FALSE,,,,FALSE
+123916,Orangutan,Uncommon,,TRUE,FALSE,,,,FALSE
+123917,Mandrill,Rare,,TRUE,FALSE,,,,FALSE
+123918,War_Paint,Rare,,TRUE,FALSE,,,,FALSE
+123919,Imposter_Bunny,Rare,,FALSE,TRUE,Easter,2020,,FALSE
+123920,Snowman,Rare,,FALSE,TRUE,Christmas,2017,,FALSE
+123921,Foil_Bunny,Legendary,,FALSE,TRUE,Easter,2020,,FALSE
+140306,Werewolf,Common,TRUE,TRUE,FALSE,,,,FALSE
+140307,Labrador,Uncommon,,TRUE,FALSE,,,,FALSE
+140308,Snow_Mountain,Uncommon,,TRUE,FALSE,,,,FALSE
+140309,Hyena,Rare,,TRUE,FALSE,,,,FALSE
+140310,Poodle,Rare,,TRUE,FALSE,,,,FALSE
+140311,Foxy,Rare,,TRUE,FALSE,,,,FALSE
+140312,Krampus,Legendary,,FALSE,TRUE,Christmas,2019,,FALSE
+156697,Vampire,Common,TRUE,TRUE,FALSE,,,,FALSE
+156700,Sparkles,Uncommon,,TRUE,FALSE,,,,FALSE
+156701,Glampire,Legendary,,FALSE,TRUE,Halloween,2019,,FALSE
+156702,Lifeguard,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+3073,Olive,Common,TRUE,TRUE,FALSE,,,,FALSE
+3074,Black,Uncommon,,TRUE,FALSE,,,,FALSE
+3075,Pink,Uncommon,,TRUE,FALSE,,,,FALSE
+3076,Yellow,Uncommon,,TRUE,FALSE,,,,FALSE
+3077,Green,Uncommon,,TRUE,FALSE,,,,FALSE
+3078,Red,Uncommon,,TRUE,FALSE,,,,FALSE
+3079,Blue,Uncommon,,TRUE,FALSE,,,,FALSE
+3080,Desert,Uncommon,,TRUE,FALSE,,,,FALSE
+3081,Wetland,Uncommon,,TRUE,FALSE,,,,FALSE
+3082,Woodland,Uncommon,,TRUE,FALSE,,,,FALSE
+3090,Terror_Eye,Rare,,FALSE,FALSE,Halloween,2017,,TRUE
+3091,Easter_Egg,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+3092,Sweets,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+3093,Pumpkin,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+3094,Bone,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+3095,Bunny,Legendary,,FALSE,FALSE,Easter,2020,,FALSE
+3096,Pentagram,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+3097,Chocolate,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+3098,Candy_Cane,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+3099,Elf,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
+3100,Wrapped,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
+3101,Wreath,Rare,,FALSE,FALSE,Christmas,2019,,FALSE
+3102,Candy,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+3103,Bronze,Uncommon,,FALSE,TRUE,,,1,FALSE
+3104,Silver,Rare,,FALSE,TRUE,,,2,FALSE
+3105,Gold,Legendary,,FALSE,TRUE,,,3,FALSE
+3106,Founder,Rare,,FALSE,TRUE,,,,FALSE
+3107,Pearl,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+3108,Digital_Diver,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+3109,Analog_Diver,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+4097,Tan,Uncommon,,TRUE,FALSE,,,,FALSE
+4098,Olive,Common,TRUE,TRUE,FALSE,,,,FALSE
+4099,Woodland,Uncommon,,TRUE,FALSE,,,,FALSE
+4100,Hunter,Uncommon,,TRUE,FALSE,,,,FALSE
+4101,Tiger,Uncommon,,TRUE,FALSE,,,,FALSE
+4102,Digital_Blue,Uncommon,,TRUE,FALSE,,,,FALSE
+4103,Urban_Pink,Uncommon,,TRUE,FALSE,,,,FALSE
+4104,Urban_Red,Uncommon,,TRUE,FALSE,,,,FALSE
+4108,Sheen,Rare,,TRUE,FALSE,,,,FALSE
+4109,Shirly,Rare,,TRUE,FALSE,,,,FALSE
+4110,Safari,Rare,,TRUE,FALSE,,,,FALSE
+4114,Chocolate,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+4115,Bone,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+4116,Pumpkin,Rare,,FALSE,FALSE,Halloween,2016,,TRUE
+4117,Sweets,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+4118,Candy_Cane,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+4119,Elf,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+4120,Sweet_Skull,Uncommon,,FALSE,FALSE,Halloween,2018,,TRUE
+4121,Easter_Wrap,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+4122,Candle,Rare,,FALSE,FALSE,Christmas,2019,,FALSE
+4123,Relic,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+4124,Water_Pistol,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
+4125,Terror_Flesh,Rare,,FALSE,FALSE,Halloween,2017,,TRUE
+4126,Eggshell,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+4127,Bronze,Uncommon,,FALSE,TRUE,,,1,FALSE
+4128,Silver,Rare,,FALSE,TRUE,,,2,FALSE
+4129,Gold,Legendary,,FALSE,TRUE,,,3,FALSE
+4130,Founders,Rare,,FALSE,TRUE,,,,FALSE
+4131,Freedom,Uncommon,,FALSE,FALSE,,,,TRUE
+4132,BlasDeLezo,Uncommon,,FALSE,FALSE,,,,TRUE
+4133,Lucky_Shot,Uncommon,,FALSE,FALSE,,,,TRUE
+4134,Jack,Uncommon,,FALSE,FALSE,,,,TRUE
+4135,SchwarzRotGold,Uncommon,,FALSE,FALSE,,,,TRUE
+4136,Hinomaru,Uncommon,,FALSE,FALSE,,,,TRUE
+4137,Thailand,Uncommon,,FALSE,FALSE,,,,TRUE
+4138,Federation,Uncommon,,FALSE,FALSE,,,,TRUE
+4139,Hungary,Uncommon,,FALSE,FALSE,,,,TRUE
+4140,France,Uncommon,,FALSE,FALSE,,,,TRUE
+4141,Turkey,Uncommon,,FALSE,FALSE,,,,TRUE
+4142,Five_Star,Uncommon,,FALSE,FALSE,,,,TRUE
+4143,RoK,Uncommon,,FALSE,FALSE,,,,TRUE
+4144,Mills_PPQ,Rare,,FALSE,TRUE,,,,FALSE
+4145,Bubble_Wrap,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+4146,Shrimp,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+4147,Coconut,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+5121,Combat_Knife,Common,TRUE,TRUE,FALSE,,,,FALSE
+5122,Poison_Tip,Uncommon,,TRUE,FALSE,,,,FALSE
+5123,Screwdriver,Uncommon,,TRUE,FALSE,,,,FALSE
+5124,Thin_Paintbrush,Uncommon,,TRUE,FALSE,,,,FALSE
+5125,Ruler,Uncommon,,TRUE,FALSE,,,,FALSE
+5126,Wrench,Uncommon,,TRUE,FALSE,,,,FALSE
+5127,Mug,Uncommon,,TRUE,FALSE,,,,FALSE
+5128,Tonfa,Uncommon,,TRUE,FALSE,,,,FALSE
+5129,Monopod,Uncommon,,TRUE,FALSE,,,,FALSE
+5130,Spoon,Uncommon,,TRUE,FALSE,,,,FALSE
+5131,Burrito,Legendary,,TRUE,FALSE,,,,FALSE
+5132,Banana,Rare,,TRUE,FALSE,,,,FALSE
+5133,Microphone,Rare,,TRUE,FALSE,,,,FALSE
+5134,Deerhorn,Rare,,TRUE,FALSE,,,,FALSE
+5135,Icicle,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
+5136,Bone_Knife,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+5137,Pumpkin_Knife,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+5138,Elf_Knife,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+5139,Carrot,Rare,,FALSE,FALSE,Easter,2017,,TRUE
+5140,Hatchet,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
+5141,Sweet_Knife,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
+5142,Balloon_Sword,Rare,,FALSE,FALSE,Halloween,2019,,FALSE
+5143,Antler,Rare,,FALSE,FALSE,Christmas,2019,,FALSE
+5144,Zombie_Arm,Legendary,,FALSE,FALSE,Halloween,2017,,TRUE
+5145,Zombie_Foot,Legendary,,FALSE,FALSE,Halloween,2018,,TRUE
+5146,Bronze_Knife,Uncommon,,FALSE,TRUE,,,1,FALSE
+5147,Silver_Knife,Rare,,FALSE,TRUE,,,2,FALSE
+5148,Gold_Knife,Legendary,,FALSE,TRUE,,,3,FALSE
+5149,Founders,Rare,,FALSE,TRUE,,,,FALSE
+5150,Wakizashi,Legendary,,FALSE,TRUE,,,,FALSE
+5151,Machete,Rare,,FALSE,TRUE,,,,FALSE
+5152,Stake,Rare,,FALSE,TRUE,,,,FALSE
+5153,Candy_Cane,Uncommon,,FALSE,FALSE,Christmas,2016,,TRUE
+5154,Wooden_Tonfa,Uncommon,,FALSE,FALSE,,,,TRUE
+5155,Tulip,Rare,,FALSE,FALSE,Easter,2020,,FALSE
+5156,Kitchen_Knife,Rare,,FALSE,TRUE,,,,FALSE
+5157,Terror_Jawbone,Rare,,FALSE,TRUE,,,,FALSE
+5158,Foam_Noodle,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+5159,Maraca,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+5160,Lobster_Claw,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+8193,Deceit_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
+8194,Escape,Common,TRUE,TRUE,FALSE,,,,FALSE
+8195,Game_Master_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
+8196,Infected,Common,TRUE,TRUE,FALSE,,,,FALSE
+8197,Innocent,Common,TRUE,TRUE,FALSE,,,,FALSE
+8198,Confusion,Common,,TRUE,FALSE,,,,FALSE
+8199,Lucky,Common,,TRUE,FALSE,,,,FALSE
+8200,Body_Outline,Common,,TRUE,FALSE,,,,FALSE
+8201,Nope,Common,,TRUE,FALSE,,,,FALSE
+8202,Power_Up,Common,,TRUE,FALSE,,,,FALSE
+8203,Born_Different,Common,,TRUE,FALSE,,,,FALSE
+8204,Blood_Bag,Common,,TRUE,FALSE,,,,FALSE
+8205,Charged_Up,Common,,TRUE,FALSE,,,,FALSE
+8206,Ammo,Common,,TRUE,FALSE,,,,FALSE
+8207,Game_Face,Common,,TRUE,FALSE,,,,FALSE
+8208,Rabbit_Jump,Common,,TRUE,FALSE,,,,FALSE
+8209,Pentagram,Common,,TRUE,FALSE,,,,FALSE
+8210,Punk,Common,,TRUE,FALSE,,,,FALSE
+8211,Beetle,Common,,TRUE,FALSE,,,,FALSE
+8212,Moth,Common,,TRUE,FALSE,,,,FALSE
+8213,Crow,Common,,TRUE,FALSE,,,,FALSE
+8214,Smash,Common,,TRUE,FALSE,,,,FALSE
+8215,Zombie,Common,,TRUE,FALSE,,,,FALSE
+8216,Racks,Common,,TRUE,FALSE,,,,FALSE
+8217,Chuck,Common,,TRUE,FALSE,,,,FALSE
+8218,Shift,Common,,TRUE,FALSE,,,,FALSE
+8219,Splat,Common,,TRUE,FALSE,,,,FALSE
+8220,Salty,Common,,TRUE,FALSE,,,,FALSE
+8221,Rep_Is_Love,Common,,TRUE,FALSE,,,,FALSE
+8222,This_Way,Common,,TRUE,FALSE,,,,FALSE
+8223,Trap,Common,,TRUE,FALSE,,,,FALSE
+8224,Screen_Star,Common,,TRUE,FALSE,,,,FALSE
+8225,Feign_Notes,Common,,TRUE,FALSE,,,,FALSE
+8226,Wakizashi,Common,,TRUE,FALSE,,,,FALSE
+8227,Lies,Common,,TRUE,FALSE,,,,FALSE
+8228,Vote,Common,,TRUE,FALSE,,,,FALSE
+8229,Crabby,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8230,Flamingo,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8231,Sun_in_Sunglasses,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8232,Lolly_Lick,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8233,Lifeguard_Ring,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8234,Seagull,Common,,FALSE,FALSE,Summer,2020,,FALSE
+10240,Innocent,Common,TRUE,TRUE,FALSE,,,,FALSE
+10241,Infected,Common,TRUE,TRUE,FALSE,,,,FALSE
+10242,Game_Master_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
+10243,Lights_Out,Common,TRUE,TRUE,FALSE,,,,FALSE
+10244,Escape,Common,TRUE,TRUE,FALSE,,,,FALSE
+10331,Credits,Common,,TRUE,FALSE,,,,FALSE
+10332,Luck,Common,,TRUE,FALSE,,,,FALSE
+10333,Ripple,Common,,TRUE,FALSE,,,,FALSE
+10334,The_Gram,Common,,TRUE,FALSE,,,,FALSE
+10335,Glitch,Common,,TRUE,FALSE,,,,FALSE
+10336,Carrot,Common,,TRUE,FALSE,,,,FALSE
+10337,Love,Common,,TRUE,FALSE,,,,FALSE
+10338,Fusion,Common,,TRUE,FALSE,,,,FALSE
+10339,Tokens,Common,,TRUE,FALSE,,,,FALSE
+10340,Switch,Common,,TRUE,FALSE,,,,FALSE
+10341,Pawn,Common,,TRUE,FALSE,,,,FALSE
+10342,Injection,Common,,TRUE,FALSE,,,,FALSE
+10343,Letter_D,Common,,TRUE,FALSE,,,,FALSE
+10344,Letter_E,Common,,TRUE,FALSE,,,,FALSE
+10345,Letter_C,Common,,TRUE,FALSE,,,,FALSE
+10346,Letter_I,Common,,TRUE,FALSE,,,,FALSE
+10347,Letter_T,Common,,TRUE,FALSE,,,,FALSE
+10348,The_Key,Common,,TRUE,FALSE,,,,FALSE
+10349,2_vs_4,Common,,TRUE,FALSE,,,,FALSE
+10350,Sharpshooter,Common,,TRUE,FALSE,,,,FALSE
+10351,Kawaii,Common,,TRUE,FALSE,,,,FALSE
+10352,Pride,Common,,TRUE,FALSE,,,,FALSE
+10353,Stash,Common,,TRUE,FALSE,,,,FALSE
+10354,Trust_Pad,Common,,TRUE,FALSE,,,,FALSE
+10355,Eliminated,Common,,TRUE,FALSE,,,,FALSE
+10245,Bronze_Rank,Common,,FALSE,TRUE,,,,FALSE
+10246,Silver_Rank,Common,,FALSE,TRUE,,,,FALSE
+10247,Gold_Rank,Common,,FALSE,TRUE,,,,FALSE
+10248,Platinum_Rank,Common,,FALSE,TRUE,,,,FALSE
+10249,Diamond_Rank,Common,,FALSE,TRUE,,,,FALSE
+10250,Alex,Common,,FALSE,TRUE,,,,FALSE
+10251,Chang,Common,,FALSE,TRUE,,,,FALSE
+10252,Lisa,Common,,FALSE,TRUE,,,,FALSE
+10253,Rachel,Common,,FALSE,TRUE,,,,FALSE
+10254,Super_Alex,Common,,FALSE,TRUE,,,,FALSE
+10255,Super_Chang,Common,,FALSE,TRUE,,,,FALSE
+10256,Super_Lisa,Common,,FALSE,TRUE,,,,FALSE
+10257,Super_Rachel,Common,,FALSE,TRUE,,,,FALSE
+10258,Note_Taker,Common,,FALSE,TRUE,,,,FALSE
+10259,Super_Squad,Common,,FALSE,TRUE,,,,FALSE
+10260,Traitor,Common,,FALSE,TRUE,,,,FALSE
+10261,Season,Common,,FALSE,TRUE,,,,FALSE
+10262,Season,Common,,FALSE,TRUE,,,,FALSE
+10263,Season,Common,,FALSE,TRUE,,,,FALSE
+10264,Legacy,Common,,FALSE,TRUE,,,,FALSE
+10265,Season,Common,,FALSE,TRUE,,,,FALSE
+10266,Season,Common,,FALSE,TRUE,,,,FALSE
+10267,Werewolf_DLC,Common,,FALSE,TRUE,,,,FALSE
+10268,Perks,Common,,FALSE,TRUE,,,,FALSE
+10269,Perks,Common,,FALSE,TRUE,,,,FALSE
+10270,Perks,Common,,FALSE,TRUE,,,,FALSE
+10271,Perks,Common,,FALSE,TRUE,,,,FALSE
+10272,Perks,Common,,FALSE,TRUE,,,,FALSE
+10273,Perks,Common,,FALSE,TRUE,,,,FALSE
+10274,Automaton,Common,,FALSE,TRUE,,,,FALSE
+10275,Play_Automaton,Common,,FALSE,TRUE,,,,FALSE
+10276,Full_Moon,Common,,FALSE,TRUE,Halloween,2017,,FALSE
+10277,Pumpkin_Candy,Common,,FALSE,TRUE,Halloween,2017,,FALSE
+10278,Demon_Terror,Common,,FALSE,TRUE,Halloween,2017,,FALSE
+10279,Season,Common,,FALSE,TRUE,,,,FALSE
+10280,Season,Common,,FALSE,TRUE,,,,FALSE
+10281,Season,Common,,FALSE,TRUE,,,,FALSE
+10282,Season,Common,,FALSE,TRUE,,,,FALSE
+10283,Season,Common,,FALSE,TRUE,,,,FALSE
+10284,Perks,Common,,FALSE,TRUE,,,,FALSE
+10285,Perks,Common,,FALSE,TRUE,,,,FALSE
+10286,Candles,Common,,FALSE,TRUE,Christmas,2017,,FALSE
+10287,Santa_Skull,Common,,FALSE,TRUE,Christmas,2017,,FALSE
+10288,Frozen_Yeti,Common,,FALSE,TRUE,Christmas,2017,,FALSE
+10289,Season,Common,,FALSE,TRUE,,,,FALSE
+10290,Egg_Basket,Common,,FALSE,TRUE,Easter,2018,,FALSE
+10291,Pastel_Bunny,Common,,FALSE,TRUE,Easter,2018,,FALSE
+10292,Blood_Moon,Common,,FALSE,TRUE,Halloween,2018,,FALSE
+10293,Cat_Eyes,Common,,FALSE,TRUE,Halloween,2018,,FALSE
+10294,Terrific,Common,,FALSE,TRUE,Halloween,2018,,FALSE
+10295,Vampire_DLC,Common,,FALSE,TRUE,,,,FALSE
+10296,Virus,Common,,FALSE,TRUE,,,,FALSE
+10297,Perks,Common,,FALSE,TRUE,,,,FALSE
+10298,Perks,Common,,FALSE,TRUE,,,,FALSE
+10299,Candy,Common,,FALSE,TRUE,Halloween,2019,,FALSE
+10300,Angel_and_Demon,Common,,FALSE,TRUE,Halloween,2019,,FALSE
+10301,Infected_Notes,Common,,FALSE,TRUE,Halloween,2019,,FALSE
+10302,Perks,Common,,FALSE,TRUE,,,,FALSE
+10303,Perks,Common,,FALSE,TRUE,,,,FALSE
+10304,Baseline,Common,,FALSE,TRUE,,,,FALSE
+10305,Play_Baseline,Common,,FALSE,TRUE,,,,FALSE
+10306,Chistmas_Tree,Common,,FALSE,TRUE,Christmas,2019,,FALSE
+10307,Under_The_Mistletoe,Common,,FALSE,TRUE,Christmas,2019,,FALSE
+10308,Festive_Bunny,Common,,FALSE,TRUE,Christmas,2019,,FALSE
+10309,Birthday_Cake,Common,,FALSE,TRUE,,,,FALSE
+10310,Spoiled_Cake,Common,,FALSE,TRUE,,,,FALSE
+10311,Perks,Common,,FALSE,TRUE,,,,FALSE
+10312,Perks,Common,,FALSE,TRUE,,,,FALSE
+10313,Easy_Challenge,Common,,FALSE,TRUE,,,,FALSE
+10314,Medium_Challenge,Common,,FALSE,TRUE,,,,FALSE
+10315,Hard_Challenge,Common,,FALSE,TRUE,,,,FALSE
+10316,Very_Hard_Challenge,Common,,FALSE,TRUE,,,,FALSE
+10317,Chocolate_Swirl,Common,,FALSE,TRUE,Easter,2020,,FALSE
+10318,Foil_Bunny,Common,,FALSE,TRUE,Easter,2020,,FALSE
+10319,Golden_Egg,Common,,FALSE,TRUE,Easter,2020,,FALSE
+10320,Chuck,Common,,FALSE,TRUE,Easter,2020,,FALSE
+10321,Community_Mod,Common,,FALSE,TRUE,,,,FALSE
+10322,Translator,Common,,FALSE,TRUE,,,,FALSE
+10323,Beta_Tester,Common,,FALSE,TRUE,,,,FALSE
+10324,Sunshine,Common,,FALSE,FALSE,Summer,2020,,FALSE
+10325,Infected_Castle,Common,,FALSE,FALSE,Summer,2020,,FALSE
+10326,Kawaii_Ice_Cream,Common,,FALSE,FALSE,Summer,2020,,FALSE
+10327,Starfish,Common,,FALSE,TRUE,Summer,2020,,FALSE
