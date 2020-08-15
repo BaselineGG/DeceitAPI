@@ -113,6 +113,9 @@ https://deceit-live.baseline.gg/stats?userId=10
 | 5     | short | Knife        |
 | 6     | short | Victory Pose |
 | 7     | short | Defeat Pose  |
+| 8     | short | Spray        |
+| 9     | short | Terror Skin  |
+| 10    | short | Emblem       |
 ###### Character Enum
 | Character  | Value |
 | ---------- | ----- |
