@@ -1,13 +1,13 @@
 # Perk Tree API
 
 ## Endpoint
-GET https://deceit-live.baseline.gg/perkTree
+GET https://live.deceit.gg/perkTree
 
 ## Parameters
 `id`: integer (optional) The ID of the perk tree to get.
 
 ## Example
-https://deceit-live.baseline.gg/perkTree?id=3
+https://live.deceit.gg/perkTree?id=3
 
 # Return:
 200 (OK): JSON object containing two fields, `id` and `tree`. 

@@ -1,7 +1,7 @@
 # Stats API
 
 ## Endpoint
-GET https://deceit-live.baseline.gg/stats
+GET https://live.deceit.gg/stats
 
 ## Parameters
 `userId`: integer (optional) the players userId.
@@ -11,7 +11,7 @@ GET https://deceit-live.baseline.gg/stats
 **Having one of these parameters specified is required.**
 
 ## Example
-https://deceit-live.baseline.gg/stats?userId=10
+https://live.deceit.gg/stats?userId=10
 
 # Return:
 200 (OK): A JSON object containing information about the player.
