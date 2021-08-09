@@ -9,12 +9,12 @@
     "description": "Active objectives that are within 15 metres of you are waypointed, even if you didn’t help activate them"
   },
   "3": {
-    "name": "Bright Eyed",
-    "description": "See slightly better in the dark without using light sources"
+    "name": "Hyperaware",
+    "description": "Infected players that transform near you will be outlined"
   },
   "4": {
-    "name": "Adrenaline",
-    "description": "Move 10% faster in the dark"
+    "name": "Second Wind",
+    "description": "Gain 25% of your stamina back after downing a terror"
   },
   "5": {
     "name": "Backstabber",
@@ -30,7 +30,7 @@
   },
   "8": {
     "name": "Interrogate",
-    "description": "If you're involved in a vote that passed there is a chance that you will be told if they were Infected. Only one person can be informed per passing vote."
+    "description": "If you're involved in a vote that passed there is a chance that you will be told if they were Infected. Only one person can be informed per passing vote"
   },
   "9": null,
   "10": {
@@ -39,7 +39,7 @@
   },
   "11": {
     "name": "Panic!",
-    "description": "15% increased movement speed when in gas and when the exit is open"
+    "description": "Gain a slight movement speed boost when an exit door is open"
   },
   "12": null,
   "13": {
@@ -62,7 +62,7 @@
   },
   "19": {
     "name": "Scavenger",
-    "description": "You are more likely to find more ammo when picking it up"
+    "description": "Receive a couple of extra bullets each time you collect ammo"
   },
   "20": null,
   "21": {
@@ -76,7 +76,7 @@
   },
   "24": {
     "name": "Bullet Time",
-    "description": "Take 25% less damage in Terror form"
+    "description": "Take less damage in Terror form"
   },
   "25": {
     "name": "Tread Lightly",
@@ -245,7 +245,7 @@
   },
   "67": {
     "name": "Appetiser",
-    "description": "Start the game with half a slice of Terror strength"
+    "description": "Start the game with a small amount of blood"
   },
   "68": {
     "name": "Fully Alert",
@@ -257,7 +257,7 @@
   },
   "70": {
     "name": "Rage Refund",
-    "description": "Get a slice of Terror strength if someone you executed gets antidoted"
+    "description": "Gain blood if someone you executed gets antidoted"
   },
   "71": {
     "name": "Last Laugh",
@@ -269,7 +269,7 @@
   },
   "73": {
     "name": "Solar Powered",
-    "description": "Torches slowly recharge when the lights are on"
+    "description": "Torches slowly recharge up to 50% when the lights are on"
   },
   "74": {
     "name": "Speedy Recovery",
@@ -277,14 +277,34 @@
   },
   "75": {
     "name": "Spotting",
-    "description": "Trackers can now be placed on blood bags, showing an outline of the blood bag's state. This tracker displays only to you and is destroyed upon taking damage."
+    "description": "Trackers can now be placed on blood bags, showing an outline of the blood bag's state. This tracker displays only to you and is destroyed upon taking damage"
   },
   "76": {
     "name": "Redistribution",
-    "description": "You're able to pick your traps back up again"
+    "description": "You're able to pick your traps back up again when the lights are off"
   },
   "77": {
     "name": "Revitalised",
-    "description": "Gain half a slice of blood when revived by an innocent player"
+    "description": "Gain half a blood bag worth of blood if revived by an Innocent"
+  },
+  "78": {
+    "name": "Power Pulse",
+    "description": "After using a Generator you will briefly be shown other available Generators"
+  },
+  "79": {
+    "name": "Field Medic",
+    "description": "Gain a slight movement speed buff if you're able to antidote someone"
+  },
+  "80": {
+    "name": "Statically Charged",
+    "description": "Gain a slight movement speed buff for a few seconds after finishing a Generator"
+  },
+  "81": {
+    "name": "Strong Scent",
+    "description": "Players revealed by Terror sense are slightly easier to see"
+  },
+  "82": {
+    "name": "Power Trip",
+    "description": "After all Generators are completed, reveal the locations of the Innocents for a few seconds"
   }
 }
