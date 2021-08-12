@@ -46,7 +46,7 @@ https://live.deceit.gg/stats?userId=10
 4) Miscellaneous
 --->
 | Field                       | Type          | Description                                     |
-| --------------------------- | ------------- | ------------------------------------------      |
+| --------------------------- | ------------- | ----------------------------------------------- |
 | s_challenges_completed_0    | unsigned int  | Easy challenges completed                       |
 | s_challenges_completed_1    | unsigned int  | Medium challenges completed                     |
 | s_challenges_completed_2    | unsigned int  | Hard challenges completed                       |
