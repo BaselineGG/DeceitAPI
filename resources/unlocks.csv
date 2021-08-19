@@ -7,7 +7,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 49159,Boater,Legendary,,FALSE,FALSE,Easter,2020,,TRUE
 81928,Bob,Common,TRUE,TRUE,FALSE,,,,FALSE
 32777,Bride_of_Frankenstein,Uncommon,,FALSE,FALSE,Halloween,2017,,TRUE
-10,Bro_Flow,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+10,Bro_Flow,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 11,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
 16395,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
 32779,Bronze_Crown,Uncommon,,FALSE,TRUE,,,4,FALSE
@@ -20,7 +20,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 49164,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
 65548,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
 81932,Bunny_Ears,Rare,,FALSE,FALSE,Easter,2018,,TRUE
-81933,Cat_Cap,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+81933,Cat_Cap,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 81934,Cat_Ears,Rare,,TRUE,FALSE,,,,FALSE
 81935,Cat_Ears1,Rare,,TRUE,FALSE,,,,FALSE
 81936,Cat_Ears2,Rare,,TRUE,FALSE,,,,FALSE
@@ -30,7 +30,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 65553,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
 81937,Coloured_Afro,Uncommon,,FALSE,TRUE,,,,FALSE
 32786,Cornrows,Legendary,,FALSE,FALSE,Christmas,2019,,TRUE
-49171,Cowgirl_Hat,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+49171,Cowgirl_Hat,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 49172,Demonic_Hair,Legendary,,FALSE,FALSE,Halloween,2018,,TRUE
 21,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
 16405,Elf_Hat,Rare,,FALSE,FALSE,Christmas,2016,,TRUE
@@ -94,9 +94,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 49209,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
 65593,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
 81977,St_Paddys_Hat,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
-65594,Summer_Flight_Goggles,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-16443,Summer_Snapback,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-32828,Tennis_Hat,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+65594,Summer_Flight_Goggles,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+16443,Summer_Snapback,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+32828,Tennis_Hat,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 49213,Trilby,Rare,,TRUE,FALSE,,,,FALSE
 49214,Trilby1,Rare,,TRUE,FALSE,,,,FALSE
 49215,Trilby2,Rare,,TRUE,FALSE,,,,FALSE
@@ -131,6 +131,12 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 65642,Paper_Hat,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 32875,Spring_Boater,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
 82028,Egg_Head,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
+109,Floral_Flat_Cap,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+32878,Desert_Police_Hat,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+49263,Elegant_Trilby,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+82032,Sombrero,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+65649,Swimming_Cap,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+16498,Headphones,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
 1025,Black_Square_Glasses,Uncommon,,TRUE,FALSE,,,,FALSE
 33794,Blue_Halfmoon_Glasses,Uncommon,,TRUE,FALSE,,,,FALSE
 1027,Bronze_Sunglasses,Uncommon,,FALSE,TRUE,,,1,FALSE
@@ -200,6 +206,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 50198,Bunny_Glasses,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
 82967,Bunny_Mask,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
 17432,Bird_Mask,Rare,,FALSE,FALSE,Easter,2021,,FALSE
+33817,Oval_Sunglasses,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
+66586,Snorkel,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+1051,Cigar,Rare,,FALSE,FALSE,Summer,2021,,FALSE
 2049,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
 18433,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
 34817,Bahroo_Scrubs,Uncommon,,FALSE,FALSE,,,,TRUE
@@ -247,7 +256,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 83978,China_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
 67595,Christmas_Jumper,Rare,,FALSE,FALSE,Christmas,2017,,TRUE
 18444,Circus_Suit,Legendary,,FALSE,FALSE,Halloween,2019,,TRUE
-51213,Cowgirl,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+51213,Cowgirl,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 2062,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
 18446,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
 34830,Dark_Bunny_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
@@ -370,7 +379,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 18479,On_Bunnys_Shoulders,Legendary,,FALSE,FALSE,Easter,2020,,TRUE
 2096,On_Santas_Shoulders,Legendary,,FALSE,FALSE,Christmas,2019,,TRUE
 34865,Onsie,Legendary,,FALSE,FALSE,Christmas,2019,,TRUE
-84018,Oversized_Hoodie,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+84018,Oversized_Hoodie,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 2099,Pastel_Suit,Rare,,FALSE,FALSE,Easter,2020,,TRUE
 84020,Pink_Tshirt,Uncommon,,TRUE,FALSE,,,,FALSE
 2100,Pink_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
@@ -387,7 +396,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 34870,Police_Uniform,Rare,,TRUE,FALSE,,,,FALSE
 34871,Police_Uniform1,Rare,,TRUE,FALSE,,,,FALSE
 34872,Police_Uniform2,Rare,,TRUE,FALSE,,,,FALSE
-2105,Preppy,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+2105,Preppy,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 34874,Present_Box,Legendary,,FALSE,FALSE,Christmas,2017,,TRUE
 18491,Prison_Scrubs,Uncommon,,FALSE,FALSE,Halloween,2016,,TRUE
 18492,Psych_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -439,8 +448,8 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 51280,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
 67664,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
 84048,St_Paddy_Suit,Rare,,FALSE,FALSE,St Patrick's,2017,,TRUE
-67665,Summer_Flight_Suit,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-18514,Summer_Tank,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+67665,Summer_Flight_Suit,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+18514,Summer_Tank,Rare,,FALSE,FALSE,Summer,2020,,TRUE
 34899,Surgical_Scrubs,Uncommon,,TRUE,FALSE,,,,FALSE
 18516,Tank_Top,Rare,,TRUE,FALSE,,,,FALSE
 18517,Tank_Top1,Rare,,TRUE,FALSE,,,,FALSE
@@ -457,7 +466,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 51288,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
 67672,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
 84056,Team_Awesome_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
-34905,Tennis,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+34905,Tennis,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 2138,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
 18522,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
 34906,Thailand_Tshirt,Uncommon,,FALSE,FALSE,,,,TRUE
@@ -555,6 +564,12 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 51333,Cobweb_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
 67717,Cobweb_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
 84101,Cobweb_Tshirt,Uncommon,,FALSE,TRUE,,,,FALSE
+2182,Floral_Shirt,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+34952,Desert_Uniform,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+51337,Elegant,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+84106,Hula_Girl,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+67723,Poolside,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+18572,Macho,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
 6145,Arms_Crossed,Common,TRUE,TRUE,FALSE,,,,FALSE
 71682,Impressive,Common,TRUE,TRUE,FALSE,,,,FALSE
 55299,Be_Quiet,Rare,,FALSE,FALSE,Christmas,2019,,TRUE
@@ -583,8 +598,8 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 38928,Force,Rare,,TRUE,FALSE,,,,FALSE
 38929,Get_Lit,Rare,,FALSE,FALSE,Halloween,2018,,TRUE
 6162,Glorious,Uncommon,,TRUE,FALSE,,,,FALSE
-22547,Good_Morning,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
-38932,Heart,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
+22547,Good_Morning,Uncommon,,FALSE,FALSE,Summer,2020,,TRUE
+38932,Heart,Uncommon,,FALSE,FALSE,Summer,2020,,TRUE
 55317,Hench,Uncommon,,TRUE,FALSE,,,,FALSE
 55318,High_Five,Uncommon,,TRUE,FALSE,,,,FALSE
 22551,Knelt,Rare,,TRUE,FALSE,,,,FALSE
@@ -622,12 +637,14 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 71730,Jazz_Hans,Uncommon,,FALSE,FALSE,Birthday,2021,,FALSE
 22579,Egg_Hunt,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 88116,Bunny,Uncommon,,FALSE,FALSE,Easter,2021,,FALSE
+6197,Bubble,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+88118,Proud,Rare,,FALSE,FALSE,Summer,2021,,FALSE
 56321,Alrighty_Then,Rare,,TRUE,FALSE,,,,FALSE
 39938,Anime,Uncommon,,TRUE,FALSE,,,,FALSE
 56323,Ashamed,Uncommon,,TRUE,FALSE,,,,FALSE
 39940,Backstabbed,Rare,,TRUE,FALSE,,,,FALSE
 72709,Brace_For_Impact,Uncommon,,TRUE,FALSE,,,,FALSE
-56326,Buried_Alive,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+56326,Buried_Alive,Rare,,FALSE,FALSE,Summer,2020,,TRUE
 7175,Cat_Got_Your_Tongue,Uncommon,,TRUE,FALSE,,,,FALSE
 72712,Choked,Uncommon,,TRUE,FALSE,,,,FALSE
 7177,Cracked_Eggs,Rare,,FALSE,FALSE,Easter,2017,,TRUE
@@ -647,7 +664,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 72718,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
 89102,Give_Me_A_Hand,Rare,,FALSE,FALSE,,,,TRUE
 7183,Head_In_Hands,Common,TRUE,TRUE,FALSE,,,,FALSE
-72720,Head_In_the_Sand,Rare,,FALSE,FALSE,Summer,2020,,FALSE
+72720,Head_In_the_Sand,Rare,,FALSE,FALSE,Summer,2020,,TRUE
 23569,Help_Me_Please,Uncommon,,TRUE,FALSE,,,,FALSE
 56338,In_a_Tizz,Uncommon,,TRUE,FALSE,,,,FALSE
 72723,Injured_Arm,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -690,6 +707,8 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 56371,Antigravity,Rare,,FALSE,FALSE,Birthday,2021,,FALSE
 56372,Play_Dead,Uncommon,,FALSE,FALSE,Easter,2021,,FALSE
 7221,Mistakes_Were_Made,Uncommon,,FALSE,FALSE,Easter,2021,,FALSE
+39990,Quick_Sand,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+72759,Dropped,Rare,,FALSE,FALSE,Summer,2021,,FALSE
 107521,Experiment,Common,TRUE,TRUE,FALSE,,,,FALSE
 107522,Forest,Uncommon,,TRUE,FALSE,,,,FALSE
 107523,Pale,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -735,6 +754,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 173099,Black_Widow,Rare,,TRUE,FALSE,,,,FALSE
 173100,Peacock,Legendary,,TRUE,FALSE,,,,FALSE
 173101,Rainbow,Legendary,,FALSE,TRUE,,,,FALSE
+107566,Crustacean,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
+173103,Wasp,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+123952,Aquatic,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
 3073,Olive,Common,TRUE,TRUE,FALSE,,,,FALSE
 3074,Black,Uncommon,,TRUE,FALSE,,,,FALSE
 3075,Pink,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -769,9 +791,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 3104,Silver,Rare,,FALSE,TRUE,,,2,FALSE
 3105,Gold,Legendary,,FALSE,TRUE,,,3,FALSE
 3106,Founder,Rare,,FALSE,TRUE,,,,FALSE
-3107,Pearl,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
-3108,Digital_Diver,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-3109,Analog_Diver,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+3107,Pearl,Uncommon,,FALSE,FALSE,Summer,2020,,TRUE
+3108,Digital_Diver,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+3109,Analog_Diver,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 3110,Stone,Uncommon,,FALSE,FALSE,Halloween,2020,,FALSE
 3111,Mummified,Rare,,FALSE,FALSE,Halloween,2020,,FALSE
 3112,Ghostly,Legendary,,FALSE,FALSE,Halloween,2020,,FALSE
@@ -784,6 +806,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 3119,Holy,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
 3120,Furry,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 3121,Flower_Power,Rare,,FALSE,FALSE,Easter,2021,,FALSE
+3122,Ice_Lolly,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
+3123,Sand,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+3124,Compass,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
 4097,Tan,Uncommon,,TRUE,FALSE,,,,FALSE
 4098,Olive,Common,TRUE,TRUE,FALSE,,,,FALSE
 4099,Woodland,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -832,9 +857,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 4142,Five_Star,Uncommon,,FALSE,FALSE,,,,TRUE
 4143,RoK,Uncommon,,FALSE,FALSE,,,,TRUE
 4144,Mills_PPQ,Rare,,FALSE,TRUE,,,,FALSE
-4145,Bubble_Wrap,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
-4146,Shrimp,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-4147,Coconut,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+4145,Bubble_Wrap,Uncommon,,FALSE,FALSE,Summer,2020,,TRUE
+4146,Shrimp,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+4147,Coconut,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 4148,Stone,Uncommon,,FALSE,FALSE,Halloween,2020,,FALSE
 4149,Pumpkin_Skin,Rare,,FALSE,FALSE,Halloween,2020,,FALSE
 4150,Foam_Shot,Legendary,,FALSE,FALSE,Christmas,2020,,FALSE
@@ -846,6 +871,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 4156,Furry_Pistol,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 4157,Chicky,Uncommon,,FALSE,FALSE,Easter,2021,,FALSE
 4158,Flower_Power_Pistol,Rare,,FALSE,FALSE,Easter,2021,,FALSE
+4160,Watermelon,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
+4161,Beach,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+4162,Jade,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
 5121,Combat_Knife,Common,TRUE,TRUE,FALSE,,,,FALSE
 5122,Poison_Tip,Uncommon,,TRUE,FALSE,,,,FALSE
 5123,Screwdriver,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -883,9 +911,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 5155,Tulip,Rare,,FALSE,FALSE,Easter,2020,,TRUE
 5156,Kitchen_Knife,Rare,,FALSE,TRUE,,,,FALSE
 5157,Terror_Jawbone,Rare,,FALSE,TRUE,,,,FALSE
-5158,Foam_Noodle,Uncommon,,FALSE,FALSE,Summer,2020,,FALSE
-5159,Maraca,Rare,,FALSE,FALSE,Summer,2020,,FALSE
-5160,Lobster_Claw,Legendary,,FALSE,FALSE,Summer,2020,,FALSE
+5158,Foam_Noodle,Uncommon,,FALSE,FALSE,Summer,2020,,TRUE
+5159,Maraca,Rare,,FALSE,FALSE,Summer,2020,,TRUE
+5160,Lobster_Claw,Legendary,,FALSE,FALSE,Summer,2020,,TRUE
 5161,Tazer,Legendary,,TRUE,FALSE,,,,FALSE
 5162,Iron,Legendary,,TRUE,FALSE,,,,FALSE
 5163,Bone,Uncommon,,FALSE,FALSE,Halloween,2020,,FALSE
@@ -901,6 +929,9 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 5173,Rubber_Chicken,Legendary,,FALSE,FALSE,Easter,2021,,FALSE
 5174,Chocolate_Bunny_Knife,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 5175,Newspaper,Rare,,FALSE,TRUE,,,,FALSE
+5176,Cutlass,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
+5177,Karambit,Rare,,FALSE,FALSE,Summer,2021,,FALSE
+5178,Ice_Cream,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
 8193,Deceit_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
 8194,Escape,Common,TRUE,TRUE,FALSE,,,,FALSE
 8195,Game_Master_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
@@ -937,12 +968,12 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 8226,Wakizashi,Common,,TRUE,FALSE,,,,FALSE
 8227,Lies,Common,,TRUE,FALSE,,,,FALSE
 8228,Vote,Common,,TRUE,FALSE,,,,FALSE
-8229,Crabby,Common,,FALSE,FALSE,Summer,2020,,FALSE
-8230,Flamingo,Common,,FALSE,FALSE,Summer,2020,,FALSE
-8231,Sun_in_Sunglasses,Common,,FALSE,FALSE,Summer,2020,,FALSE
-8232,Lolly_Lick,Common,,FALSE,FALSE,Summer,2020,,FALSE
-8233,Lifeguard_Ring,Common,,FALSE,FALSE,Summer,2020,,FALSE
-8234,Seagull,Common,,FALSE,FALSE,Summer,2020,,FALSE
+8229,Crabby,Common,,FALSE,FALSE,Summer,2020,,TRUE
+8230,Flamingo,Common,,FALSE,FALSE,Summer,2020,,TRUE
+8231,Sun_in_Sunglasses,Common,,FALSE,FALSE,Summer,2020,,TRUE
+8232,Lolly_Lick,Common,,FALSE,FALSE,Summer,2020,,TRUE
+8233,Lifeguard_Ring,Common,,FALSE,FALSE,Summer,2020,,TRUE
+8234,Seagull,Common,,FALSE,FALSE,Summer,2020,,TRUE
 8238,Bloody_Hands,Common,,FALSE,FALSE,Halloween,2020,,FALSE
 8239,Full_Moon,Common,,FALSE,FALSE,Halloween,2020,,FALSE
 8240,Happy_Clown,Common,,FALSE,FALSE,Halloween,2020,,FALSE
@@ -961,6 +992,11 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 8253,Cracked_Egg,Common,,FALSE,FALSE,Easter,2021,,FALSE
 8254,Evil_Chick,Common,,FALSE,FALSE,Easter,2021,,FALSE
 8255,Flower_Power,Common,,FALSE,FALSE,Easter,2021,,FALSE
+8256,Aviators,Common,,FALSE,FALSE,Summer,2021,,FALSE
+8257,Seashell,Common,,FALSE,FALSE,Summer,2021,,FALSE
+8258,Watermelon,Common,,FALSE,FALSE,Summer,2021,,FALSE
+8259,Angry_Crabby,Common,,FALSE,FALSE,Summer,2021,,FALSE
+8260,Heart_In_The_Sand,Common,,FALSE,FALSE,Summer,2021,,FALSE
 10240,Innocent,Common,TRUE,TRUE,FALSE,,,,FALSE
 10241,Infected,Common,TRUE,TRUE,FALSE,,,,FALSE
 10242,Game_Master_Logo,Common,TRUE,TRUE,FALSE,,,,FALSE
@@ -1103,3 +1139,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 10382,Perks,Common,,FALSE,TRUE,,,,FALSE
 10383,Perks,Common,,FALSE,TRUE,,,,FALSE
 10384,Perks,Common,,FALSE,TRUE,,,,FALSE
+10385,Watermelon,Common,,FALSE,FALSE,Summer,2021,,FALSE
+10386,Turtle,Common,,FALSE,FALSE,Summer,2021,,FALSE
+10387,Lemon,Common,,FALSE,FALSE,Summer,2021,,FALSE
+10389,Steak,Common,,FALSE,TRUE,Summer,2021,,FALSE
