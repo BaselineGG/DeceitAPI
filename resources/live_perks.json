@@ -1,0 +1,85 @@
+{
+    "0":{
+        "name": "Escape Artist",
+        "description": "You're faster at opening the Escape door"
+    },
+    "1": null,
+    "2":{
+        "name": "Panic!",
+        "description": "At night, move faster in human form when the power has been completed"
+    },
+    "3":{
+        "name": "Skedaddle",
+        "description": "Gain a burst of movement speed after expelling a Terror"
+    },
+    "4":{
+        "name": "Sleight of Hand",
+        "description": "Reload weapons faster"
+    },
+    "5":{
+        "name": "Surveillance",
+        "description": "If you revive someone you can see their position for 15 seconds"
+    },
+    "6":{
+        "name": "Bounce Back",
+        "description": "Regenerate health slowly over time"
+    },
+    "7":{
+        "name": "Speedy Recovery",
+        "description": "Health packs instant heal a chunk before healing more over time"
+    },
+    "8":{
+        "name": "Field Medic",
+        "description": "Gain a movement speed buff if you're able to antidote someone"
+    },
+    "9":{
+        "name": "Statically Charged",
+        "description": "Gain a movement speed buff for a short period after finishing a generator"
+    },
+    "10": null,
+    "11": null,
+    "12":{
+        "name": "Blasé",
+        "description": "Reduce the time added per extra vote cast by 1 second"
+    },
+    "13":{
+        "name": "Free Refill",
+        "description": "Gain a clip of ammo whenever you start a Shoot Objective"
+    },
+    "14":{
+        "name": "Slasher",
+        "description": "Increased melee damage with the knife"
+    },
+    "15": null,
+    "16":{
+        "name": "Critical Thinking",
+        "description": "Deal 25% extra damage when hitting targets in the head with the Pistol"
+    },
+    "17":{
+        "name": "Bandolier",
+        "description": "Increase the maximum Pistol ammo you can carry by a clip"
+    },
+    "18":{
+        "name": "Untrack",
+        "description": "If someone that's tracking you is downed it will break the connection"
+    },
+    "19":{
+        "name": "Scavenger",
+        "description": "Pick up an extra couple of bullets from each Ammo spawn"
+    },
+    "20": null,
+    "21": null,
+    "22": null,
+    "23":{
+        "name": "Interrogate",
+        "description": "If you cast the eliminating vote on a downed player you will be told if they were Infected"
+    },
+    "24":{
+        "name": "Hyperaware",
+        "description": "Any Infected transforming into Terror Form near you will be highlighted"
+    },
+    "25":{
+        "name": "Stake Out",
+        "description": "The Infected's Terror Sense won't reveal you if you're crouched & not moving"
+    }
+}
