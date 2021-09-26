@@ -24,13 +24,13 @@ https://live.deceit.gg/stats?userId=10
 | elo         | double                                                               | Ranked elo                                                |
 | rank        | byte                                                                 | Current rank (offset from bronze 20)                      |
 | marks       | byte                                                                 | Ranked marks (0 if rank is 20)                            |
-| experience  | unsigned long                                                        | All-time experience                                       |
+| tickets     | unsigned long                                                        | Tickets count                                             |
 | level       | unsigned int                                                         | Current level (Without prestige)                          |  
 | prestige    | byte                                                                 | Current prestige (max is 9)                               |
 | emblem      | unsigned short                                                       | Emblem Id                                                 |
 | reputation  | unsigned int                                                         | Reputation                                                |
-| dailyXp     | unsigned int                                                         | Experience received today                                 |
-| dailyXpRank | unsigned int                                                         | Position on the daily xp leaderboard                      |
+| dailyXp     | unsigned int                                                         | Tickets received today                                    |
+| dailyXpRank | unsigned int                                                         | Position on the daily ticket leaderboard                  |
 | eloRank     | unsigned int                                                         | Position on the elo leaderboard                           |
 | repRank     | unsigned int                                                         | Position on the reputation leaderboard                    |
 | banner      | byte                                                                 | Last season rank (offset from bronze 20)                  |
