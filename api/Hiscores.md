@@ -4,7 +4,7 @@
 GET https://live.deceit.gg/hiscores
 
 ## Parameters
-`type`: string (required) Either `elo`, `xp` or `rep` - daily XP or reputation highscores respectively.
+`type`: string (required) Either `elo`, `xp` or `rep` - elo, daily ticket or reputation highscores respectively.
 
 ## Example
 https://live.deceit.gg/hiscores?type=elo
