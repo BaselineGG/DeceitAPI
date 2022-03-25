@@ -863,6 +863,8 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 3125,Gothic,Legendary,,FALSE,FALSE,Halloween,2021,,FALSE
 3126,Radar,Rare,,FALSE,FALSE,Halloween,2021,,FALSE
 3127,Blood_Red,Uncommon,,FALSE,FALSE,Halloween,2021,,FALSE
+3128,Silicone,Legendary,,TRUE,FALSE,,,,FALSE
+3130,Patient,Legendary,,TRUE,FALSE,,,,FALSE
 3131,Carrot,Rare,,FALSE,FALSE,Christmas,2021,,FALSE
 3132,Rubber,Uncommon,,FALSE,FALSE,Christmas,2021,,FALSE
 4097,Tan,Uncommon,,TRUE,FALSE,,,,FALSE
@@ -927,6 +929,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 4156,Furry_Pistol,Rare,,FALSE,FALSE,Easter,2021,,FALSE
 4157,Chicky,Uncommon,,FALSE,FALSE,Easter,2021,,FALSE
 4158,Flower_Power_Pistol,Rare,,FALSE,FALSE,Easter,2021,,FALSE
+4159,Flintlock,Legendary,,TRUE,FALSE,,,,FALSE
 4160,Watermelon,Uncommon,,FALSE,FALSE,Summer,2021,,FALSE
 4161,Beach,Rare,,FALSE,FALSE,Summer,2021,,FALSE
 4162,Jade,Legendary,,FALSE,FALSE,Summer,2021,,FALSE
