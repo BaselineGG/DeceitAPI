@@ -1,310 +1,85 @@
 {
-  "0": null,
-  "1": {
-    "name": "Say Cheese",
-    "description": "Cameras provide an extra flash"
-  },
-  "2": {
-    "name": "Foresight",
-    "description": "Active objectives that are within 15 metres of you are waypointed, even if you didn’t help activate them"
-  },
-  "3": {
-    "name": "Hyperaware",
-    "description": "Infected players that transform near you will be outlined"
-  },
-  "4": {
-    "name": "Second Wind",
-    "description": "Gain 25% of your stamina back after downing a terror"
-  },
-  "5": {
-    "name": "Backstabber",
-    "description": "Deal 10% more damage from behind targets"
-  },
-  "6": {
-    "name": "Unsung Hero",
-    "description": "You will be notified who took an objective that you’ve activated"
-  },
-  "7": {
-    "name": "Frisk",
-    "description": "You can see downed people’s items in their nametag"
-  },
-  "8": {
-    "name": "Interrogate",
-    "description": "If you're involved in a vote that passed there is a chance that you will be told if they were Infected. Only one person can be informed per passing vote"
-  },
-  "9": null,
-  "10": {
-    "name": "Second Chance",
-    "description": "When antidoting someone, nearby Terrors will become downed"
-  },
-  "11": {
-    "name": "Panic!",
-    "description": "Gain a slight movement speed boost when an exit door is open"
-  },
-  "12": null,
-  "13": {
-    "name": "Blood Thirsty",
-    "description": "In Terror form move 10% faster when moving towards Innocents that are carrying fuses"
-  },
-  "14": {
-    "name": "Stealth",
-    "description": "Transform in and out of Terror form quieter"
-  },
-  "15": null,
-  "16": null,
-  "17": {
-    "name": "Slasher",
-    "description": "Increased melee damage with the knife"
-  },
-  "18": {
-    "name": "Evasion",
-    "description": "Trackers last 50% less time on you"
-  },
-  "19": {
-    "name": "Scavenger",
-    "description": "Receive a couple of extra bullets each time you collect ammo"
-  },
-  "20": null,
-  "21": {
-    "name": "Bounce Back",
-    "description": "Regenerate health slowly over time"
-  },
-  "22": null,
-  "23": {
-    "name": "Come Prepared",
-    "description": "Spawn with 100% armour"
-  },
-  "24": {
-    "name": "Bullet Time",
-    "description": "Take less damage in Terror form"
-  },
-  "25": {
-    "name": "Tread Lightly",
-    "description": "Terrors see your position for less time when they detect your movement"
-  },
-  "26": {
-    "name": "Surveillance",
-    "description": "If you revive someone you can see their position for 15 seconds"
-  },
-  "27": {
-    "name": "Stubborn",
-    "description": "Levers that you’ve activated require more damage to disable"
-  },
-  "28": null,
-  "29": {
-    "name": "Sixth Sense",
-    "description": "At night all accessible blood bags are highlighted to you"
-  },
-  "30": {
-    "name": "Every Last Drop",
-    "description": "If you respawn in human form you will lose only 1/2 a slice of Terror strength"
-  },
-  "31": {
-    "name": "Heightened Senses",
-    "description": "Terror sense highlights Innocents every 4 seconds instead of 5"
-  },
-  "32": {
-    "name": "Fun Sponge",
-    "description": "You gain half a slice of Terror strength from each objective you deactivate"
-  },
-  "33": {
-    "name": "Hoarder",
-    "description": "Consumable items on the floor are highlighted from further away"
-  },
-  "34": {
-    "name": "Escape Artist",
-    "description": "It takes 25% less time for the escape door to open if you’re the one to interact with it"
-  },
-  "35": {
-    "name": "Skedaddle",
-    "description": "Move 35% faster (decaying over 3 seconds) after downing Terrors"
-  },
-  "36": {
-    "name": "Borrowed Time",
-    "description": "Each fuse you put in a fuse box reduces the time it will take for the door to open by 2 seconds"
-  },
-  "37": {
-    "name": "Critical Thinking",
-    "description": "Guns deal 25% extra damage when hitting targets in the head"
-  },
-  "38": {
-    "name": "Loaded",
-    "description": "Start with a full ammo clip in your pistol"
-  },
-  "39": {
-    "name": "Eye Spy",
-    "description": "You can see nametags when close to people in the dark"
-  },
-  "40": {
-    "name": "Turbo Trap",
-    "description": "Place traps faster"
-  },
-  "41": {
-    "name": "Sleight Of Hand",
-    "description": "Reload weapons faster"
-  },
-  "42": {
-    "name": "Good Lighting",
-    "description": "Cameras are 10% more effective against Terrors"
-  },
-  "43": {
-    "name": "Head Start",
-    "description": "Each time you respawn you’ll have 25% armour"
-  },
-  "44": {
-    "name": "Blindfire",
-    "description": "Find it harder to see in the dark but deal 5% more damage"
-  },
-  "45": {
-    "name": "Try Hard",
-    "description": "If you’re the first person to complete an objective you get full health and armour"
-  },
-  "46": {
-    "name": "Trigger Happy",
-    "description": "Shoot weapons at a faster rate"
-  },
-  "47": {
-    "name": "Berserker",
-    "description": "When at less than or equal to 50% health you do 10% more damage"
-  },
-  "48": {
-    "name": "Magnetic Mag",
-    "description": "Bullets have a 20% chance of returning on hitting a target"
-  },
-  "49": {
-    "name": "Trust Issues",
-    "description": "When you pull a lever it takes 5 seconds before the objective becomes active giving you time to get to it first"
-  },
-  "50": {
-    "name": "Triggered",
-    "description": "Increased trap trigger and blast radius"
-  },
-  "51": {
-    "name": "Greedy",
-    "description": "Keep all your items when respawning"
-  },
-  "52": {
-    "name": "Blasé",
-    "description": "When downed, additional votes cast on you increase your respawn time by 4 seconds instead of 5"
-  },
-  "53": {
-    "name": "Please Sir",
-    "description": "After completing an objective you will briefly be shown the position of available levers to activate"
-  },
-  "54": {
-    "name": "Detective",
-    "description": "When looking at a taken blood bag you can see when it was drank by an infected"
-  },
-  "55": {
-    "name": "Mind Your Step",
-    "description": "Get an outline on traps when stood near them in human form"
-  },
-  "56": {
-    "name": "Surprise",
-    "description": "Gain a burst of movement speed when coming out of a vent"
-  },
-  "57": {
-    "name": "Weak Point",
-    "description": "There is a 10% chance when damaging a lever that it becomes instantly deactivated"
-  },
-  "58": {
-    "name": "Knowledge Is Power",
-    "description": "Gain half a slice of Terror strength when you pick up a diary entry"
-  },
-  "59": {
-    "name": "Life Leech",
-    "description": "Get full Terror health when you execute someone"
-  },
-  "60": {
-    "name": "Quiet Quencher",
-    "description": "Make less noise when you’re drinking from blood bags"
-  },
-  "61": {
-    "name": "Slowly Does It",
-    "description": "Traps require you to be closer to them before they’re triggered"
-  },
-  "62": {
-    "name": "Juggernaut",
-    "description": "In Terror form take 10% less damage but move 10% slower"
-  },
-  "63": {
-    "name": "Uncontrollable",
-    "description": "Transforming into Terror form takes less time"
-  },
-  "64": {
-    "name": "Step Up",
-    "description": "Other player's footsteps are louder to you in Terror form"
-  },
-  "65": {
-    "name": "Acquired Taste",
-    "description": "After drinking a blood bag you will briefly be shown other available blood bags"
-  },
-  "66": {
-    "name": "Vengeance",
-    "description": "After respawning in Terror form you can see the player that downed you for 5 seconds"
-  },
-  "67": {
-    "name": "Appetiser",
-    "description": "Start the game with a small amount of blood"
-  },
-  "68": {
-    "name": "Fully Alert",
-    "description": "At full blood when the lights are on you can see the Innocents"
-  },
-  "69": {
-    "name": "Locked On",
-    "description": "Your Terror sense highlights players with fuses that aren’t running"
-  },
-  "70": {
-    "name": "Rage Refund",
-    "description": "Gain blood if someone you executed gets antidoted"
-  },
-  "71": {
-    "name": "Last Laugh",
-    "description": "When enraged and in Terror form you can see all Innocents"
-  },
-  "72": {
-    "name": "Impatient",
-    "description": "Respawn faster when downed in Terror form"
-  },
-  "73": {
-    "name": "Solar Powered",
-    "description": "Torches slowly recharge up to 50% when the lights are on"
-  },
-  "74": {
-    "name": "Speedy Recovery",
-    "description": "Health packs also instantly heal for 25 upon pickup"
-  },
-  "75": {
-    "name": "Spotting",
-    "description": "Trackers can now be placed on blood bags, showing an outline of the blood bag's state. This tracker displays only to you and is destroyed upon taking damage"
-  },
-  "76": {
-    "name": "Redistribution",
-    "description": "You're able to pick your traps back up again when the lights are off"
-  },
-  "77": {
-    "name": "Revitalised",
-    "description": "Gain half a blood bag worth of blood if revived by an Innocent"
-  },
-  "78": {
-    "name": "Power Pulse",
-    "description": "After using a Generator you will briefly be shown other available Generators"
-  },
-  "79": {
-    "name": "Field Medic",
-    "description": "Gain a slight movement speed buff if you're able to antidote someone"
-  },
-  "80": {
-    "name": "Statically Charged",
-    "description": "Gain a slight movement speed buff for a few seconds after finishing a Generator"
-  },
-  "81": {
-    "name": "Strong Scent",
-    "description": "Players revealed by Terror sense are slightly easier to see"
-  },
-  "82": {
-    "name": "Power Trip",
-    "description": "After all Generators are completed, reveal the locations of the Innocents for a few seconds"
-  }
+    "0":{
+        "name": "Escape Artist",
+        "description": "You're faster at opening the Escape door"
+    },
+    "1": null,
+    "2":{
+        "name": "Panic!",
+        "description": "At night, move faster in human form when the power has been completed"
+    },
+    "3":{
+        "name": "Skedaddle",
+        "description": "Gain a burst of movement speed after expelling a Terror"
+    },
+    "4":{
+        "name": "Sleight of Hand",
+        "description": "Reload weapons faster"
+    },
+    "5":{
+        "name": "Surveillance",
+        "description": "If you revive someone you can see their position for 15 seconds"
+    },
+    "6":{
+        "name": "Bounce Back",
+        "description": "Regenerate health slowly over time"
+    },
+    "7":{
+        "name": "Speedy Recovery",
+        "description": "Health packs instant heal a chunk before healing more over time"
+    },
+    "8":{
+        "name": "Field Medic",
+        "description": "Gain a movement speed buff if you're able to antidote someone"
+    },
+    "9":{
+        "name": "Statically Charged",
+        "description": "Gain a movement speed buff for a short period after finishing a generator"
+    },
+    "10": null,
+    "11": null,
+    "12":{
+        "name": "Blasé",
+        "description": "Reduce the time added per extra vote cast by 1 second"
+    },
+    "13":{
+        "name": "Free Refill",
+        "description": "Gain a clip of ammo whenever you start a Shoot Objective"
+    },
+    "14":{
+        "name": "Slasher",
+        "description": "Increased melee damage with the knife"
+    },
+    "15": null,
+    "16":{
+        "name": "Critical Thinking",
+        "description": "Deal 25% extra damage when hitting targets in the head with the Pistol"
+    },
+    "17":{
+        "name": "Bandolier",
+        "description": "Increase the maximum Pistol ammo you can carry by a clip"
+    },
+    "18":{
+        "name": "Untrack",
+        "description": "If someone that's tracking you is downed it will break the connection"
+    },
+    "19":{
+        "name": "Scavenger",
+        "description": "Pick up an extra couple of bullets from each Ammo spawn"
+    },
+    "20": null,
+    "21": null,
+    "22": null,
+    "23":{
+        "name": "Interrogate",
+        "description": "If you cast the eliminating vote on a downed player you will be told if they were Infected"
+    },
+    "24":{
+        "name": "Hyperaware",
+        "description": "Any Infected transforming into Terror Form near you will be highlighted"
+    },
+    "25":{
+        "name": "Stake Out",
+        "description": "The Infected's Terror Sense won't reveal you if you're crouched & not moving"
+    }
 }
