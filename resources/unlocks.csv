@@ -251,7 +251,7 @@ Global ID,Alias,Rarity,Default Unlock,Base Reward,Exclusive,Event,Event Year,Col
 66601,Fifth_Glasses_Hans,Rare,,FALSE,TRUE,Birthday,2022,,FALSE
 82986,Fifth_Glasses_Nina,Rare,,FALSE,FALSE,Birthday,2022,,FALSE
 33835,Jeweled_Mask,Legendary,,FALSE,FALSE,Summer,2022,,FALSE
-66604,Plague_Mask,Legendary,,FALSE,FALSE,Summer,2022,,FALSE
+66604,Plague_Mask,Legendary,,FALSE,TRUE,Summer,2022,,FALSE
 17453,Devil_Mask,Legendary,,FALSE,FALSE,Summer,2022,,FALSE
 1070,Cat_Mask,Legendary,,FALSE,FALSE,Summer,2022,,FALSE
 50223,Fox_Mask,Legendary,,FALSE,FALSE,Summer,2022,,FALSE
