@@ -24,5 +24,5 @@ Currently the API is limited to 10,000 calls a day per IP.
 ## Get Involved
 Get involved with the Deceit developer community by joining our [Discord server](https://discord.gg/deceit)! 
 Use the channel #api-discussion for support and any queries you may have about this service.
-
+## Contributions
 Feel free to submit pull requests here updating the documentation, or providing more information.
