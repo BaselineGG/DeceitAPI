@@ -21,7 +21,7 @@ https://live.deceit.gg/stats?userId=10
 | ----------- | -------------------------------------------------------------------- | --------------------------------------------------------- |
 | userId      | unsigned long                                                        | Deceit Id                                                 |
 | name        | string                                                               | In-game username                                          |
-| elo         | double                                                               | Ranked elo                                                |
+| elo         | double                                                               | Ranked mmr                                                |
 | rank        | byte                                                                 | Current rank (offset from bronze 20)                      |
 | marks       | byte                                                                 | Ranked marks (0 if rank is 20)                            |
 | experience  | unsigned long                                                        | All-time experience                                       |
@@ -31,7 +31,7 @@ https://live.deceit.gg/stats?userId=10
 | reputation  | unsigned int                                                         | Reputation                                                |
 | dailyXp     | unsigned int                                                         | Experience received today                                 |
 | dailyXpRank | unsigned int                                                         | Position on the daily xp leaderboard                      |
-| eloRank     | unsigned int                                                         | Position on the elo leaderboard                           |
+| eloRank     | unsigned int                                                         | Position on the ranked leaderboard                        |
 | repRank     | unsigned int                                                         | Position on the reputation leaderboard                    |
 | banner      | byte                                                                 | Last season rank (offset from bronze 20)                  |
 | character   | [character enum](#character-enum)                                    | Currently selected character                              |
